@@ -1,0 +1,207 @@
+[
+  {
+    "name": "Q1",
+    "category": "Strongly Disagree",
+    "value": 0.15503875968992248
+  },
+  {
+    "name": "Q1",
+    "category": "Agree",
+    "value": 0.11627906976744186
+  },
+  {
+    "name": "Q1",
+    "category": "Mostly Disagree",
+    "value": 0.20930232558139536
+  },
+  {
+    "name": "Q1",
+    "category": "Disagree",
+    "value": 0.4263565891472868
+  },
+  {
+    "name": "Q1",
+    "category": "Mostly Agree",
+    "value": 0.05426356589147287
+  },
+  {
+    "name": "Q1",
+    "category": "Strongly Agree",
+    "value": 0.03875968992248062
+  },
+  {
+    "name": "Q2",
+    "category": "Mostly Agree",
+    "value": 0.325
+  },
+  {
+    "name": "Q2",
+    "category": "Agree",
+    "value": 0.375
+  },
+  {
+    "name": "Q2",
+    "category": "Mostly Disagree",
+    "value": 0.1
+  },
+  {
+    "name": "Q2",
+    "category": "Strongly Agree",
+    "value": 0.125
+  },
+  {
+    "name": "Q2",
+    "category": "Disagree",
+    "value": 0.075
+  },
+  {
+    "name": "Q3",
+    "category": "Mostly Agree",
+    "value": 0.25
+  },
+  {
+    "name": "Q3",
+    "category": "Strongly Agree",
+    "value": 0.1111111111111111
+  },
+  {
+    "name": "Q3",
+    "category": "Strongly Disagree",
+    "value": 0.027777777777777776
+  },
+  {
+    "name": "Q3",
+    "category": "Mostly Disagree",
+    "value": 0.3333333333333333
+  },
+  {
+    "name": "Q3",
+    "category": "Disagree",
+    "value": 0.1388888888888889
+  },
+  {
+    "name": "Q3",
+    "category": "Agree",
+    "value": 0.1388888888888889
+  },
+  {
+    "name": "Q4",
+    "category": "Disagree",
+    "value": 0.07407407407407407
+  },
+  {
+    "name": "Q4",
+    "category": "Mostly Disagree",
+    "value": 0.14814814814814814
+  },
+  {
+    "name": "Q4",
+    "category": "Mostly Agree",
+    "value": 0.25925925925925924
+  },
+  {
+    "name": "Q4",
+    "category": "Strongly Agree",
+    "value": 0.25925925925925924
+  },
+  {
+    "name": "Q4",
+    "category": "Agree",
+    "value": 0.25925925925925924
+  },
+  {
+    "name": "Q5",
+    "category": "Mostly Disagree",
+    "value": 0.25
+  },
+  {
+    "name": "Q5",
+    "category": "Disagree",
+    "value": 0.3125
+  },
+  {
+    "name": "Q5",
+    "category": "Mostly Agree",
+    "value": 0.3125
+  },
+  {
+    "name": "Q5",
+    "category": "Agree",
+    "value": 0.125
+  },
+  {
+    "name": "Q6",
+    "category": "Mostly Disagree",
+    "value": 0.3333333333333333
+  },
+  {
+    "name": "Q6",
+    "category": "Agree",
+    "value": 0.26666666666666666
+  },
+  {
+    "name": "Q6",
+    "category": "Strongly Agree",
+    "value": 0.2
+  },
+  {
+    "name": "Q6",
+    "category": "Disagree",
+    "value": 0.06666666666666667
+  },
+  {
+    "name": "Q6",
+    "category": "Mostly Agree",
+    "value": 0.13333333333333333
+  },
+  {
+    "name": "Q7",
+    "category": "Mostly Disagree",
+    "value": 0.07692307692307693
+  },
+  {
+    "name": "Q7",
+    "category": "Strongly Agree",
+    "value": 0.3076923076923077
+  },
+  {
+    "name": "Q7",
+    "category": "Agree",
+    "value": 0.23076923076923078
+  },
+  {
+    "name": "Q7",
+    "category": "Mostly Agree",
+    "value": 0.3076923076923077
+  },
+  {
+    "name": "Q7",
+    "category": "Disagree",
+    "value": 0.07692307692307693
+  },
+  {
+    "name": "Q8",
+    "category": "Disagree",
+    "value": 0.07692307692307693
+  },
+  {
+    "name": "Q8",
+    "category": "Strongly Agree",
+    "value": 0.23076923076923078
+  },
+  {
+    "name": "Q8",
+    "category": "Mostly Disagree",
+    "value": 0.23076923076923078
+  },
+  {
+    "name": "Q8",
+    "category": "Mostly Agree",
+    "value": 0.3076923076923077
+  },
+  {
+    "name": "Q8",
+    "category": "Agree",
+    "value": 0.15384615384615385
+  }
+]

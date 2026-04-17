@@ -1,0 +1,5292 @@
+[
+  {
+    "name": "8 - Track",
+    "year": 1973,
+    "value": 2699600000
+  },
+  {
+    "name": "8 - Track",
+    "year": 1974,
+    "value": 2730600000
+  },
+  {
+    "name": "8 - Track",
+    "year": 1975,
+    "value": 2656200000
+  },
+  {
+    "name": "8 - Track",
+    "year": 1976,
+    "value": 2921600000
+  },
+  {
+    "name": "8 - Track",
+    "year": 1977,
+    "value": 3280400000
+  },
+  {
+    "name": "8 - Track",
+    "year": 1978,
+    "value": 3564000000
+  },
+  {
+    "name": "8 - Track",
+    "year": 1979,
+    "value": 2310400000
+  },
+  {
+    "name": "8 - Track",
+    "year": 1980,
+    "value": 1567700000
+  },
+  {
+    "name": "8 - Track",
+    "year": 1981,
+    "value": 844000000
+  },
+  {
+    "name": "8 - Track",
+    "year": 1982,
+    "value": 91400000
+  },
+  {
+    "name": "8 - Track",
+    "year": 1983,
+    "value": 0
+  },
+  {
+    "name": "8 - Track",
+    "year": 1984,
+    "value": 0
+  },
+  {
+    "name": "8 - Track",
+    "year": 1985,
+    "value": 0
+  },
+  {
+    "name": "8 - Track",
+    "year": 1986,
+    "value": 0
+  },
+  {
+    "name": "8 - Track",
+    "year": 1987,
+    "value": 0
+  },
+  {
+    "name": "8 - Track",
+    "year": 1988,
+    "value": 0
+  },
+  {
+    "name": "8 - Track",
+    "year": 1989,
+    "value": 0
+  },
+  {
+    "name": "8 - Track",
+    "year": 1990,
+    "value": 0
+  },
+  {
+    "name": "8 - Track",
+    "year": 1991,
+    "value": 0
+  },
+  {
+    "name": "8 - Track",
+    "year": 1992,
+    "value": 0
+  },
+  {
+    "name": "8 - Track",
+    "year": 1993,
+    "value": 0
+  },
+  {
+    "name": "8 - Track",
+    "year": 1994,
+    "value": 0
+  },
+  {
+    "name": "8 - Track",
+    "year": 1995,
+    "value": 0
+  },
+  {
+    "name": "8 - Track",
+    "year": 1996,
+    "value": 0
+  },
+  {
+    "name": "8 - Track",
+    "year": 1997,
+    "value": 0
+  },
+  {
+    "name": "8 - Track",
+    "year": 1998,
+    "value": 0
+  },
+  {
+    "name": "8 - Track",
+    "year": 1999,
+    "value": 0
+  },
+  {
+    "name": "8 - Track",
+    "year": 2000,
+    "value": 0
+  },
+  {
+    "name": "8 - Track",
+    "year": 2001,
+    "value": 0
+  },
+  {
+    "name": "8 - Track",
+    "year": 2002,
+    "value": 0
+  },
+  {
+    "name": "8 - Track",
+    "year": 2003,
+    "value": 0
+  },
+  {
+    "name": "8 - Track",
+    "year": 2004,
+    "value": 0
+  },
+  {
+    "name": "8 - Track",
+    "year": 2005,
+    "value": 0
+  },
+  {
+    "name": "8 - Track",
+    "year": 2006,
+    "value": 0
+  },
+  {
+    "name": "8 - Track",
+    "year": 2007,
+    "value": 0
+  },
+  {
+    "name": "8 - Track",
+    "year": 2008,
+    "value": 0
+  },
+  {
+    "name": "8 - Track",
+    "year": 2009,
+    "value": 0
+  },
+  {
+    "name": "8 - Track",
+    "year": 2010,
+    "value": 0
+  },
+  {
+    "name": "8 - Track",
+    "year": 2011,
+    "value": 0
+  },
+  {
+    "name": "8 - Track",
+    "year": 2012,
+    "value": 0
+  },
+  {
+    "name": "8 - Track",
+    "year": 2013,
+    "value": 0
+  },
+  {
+    "name": "8 - Track",
+    "year": 2014,
+    "value": 0
+  },
+  {
+    "name": "8 - Track",
+    "year": 2015,
+    "value": 0
+  },
+  {
+    "name": "8 - Track",
+    "year": 2016,
+    "value": 0
+  },
+  {
+    "name": "8 - Track",
+    "year": 2017,
+    "value": 0
+  },
+  {
+    "name": "8 - Track",
+    "year": 2018,
+    "value": 0
+  },
+  {
+    "name": "Cassette",
+    "year": 1973,
+    "value": 419600000
+  },
+  {
+    "name": "Cassette",
+    "year": 1974,
+    "value": 433600000
+  },
+  {
+    "name": "Cassette",
+    "year": 1975,
+    "value": 450100000
+  },
+  {
+    "name": "Cassette",
+    "year": 1976,
+    "value": 627700000
+  },
+  {
+    "name": "Cassette",
+    "year": 1977,
+    "value": 1009600000
+  },
+  {
+    "name": "Cassette",
+    "year": 1978,
+    "value": 1691000000
+  },
+  {
+    "name": "Cassette",
+    "year": 1979,
+    "value": 1960300000
+  },
+  {
+    "name": "Cassette",
+    "year": 1980,
+    "value": 2097200000
+  },
+  {
+    "name": "Cassette",
+    "year": 1981,
+    "value": 2865900000
+  },
+  {
+    "name": "Cassette",
+    "year": 1982,
+    "value": 3516800000
+  },
+  {
+    "name": "Cassette",
+    "year": 1983,
+    "value": 4456700000
+  },
+  {
+    "name": "Cassette",
+    "year": 1984,
+    "value": 5624100000
+  },
+  {
+    "name": "Cassette",
+    "year": 1985,
+    "value": 5493600000
+  },
+  {
+    "name": "Cassette",
+    "year": 1986,
+    "value": 5590100000
+  },
+  {
+    "name": "Cassette",
+    "year": 1987,
+    "value": 6386300000
+  },
+  {
+    "name": "Cassette",
+    "year": 1988,
+    "value": 7014000000
+  },
+  {
+    "name": "Cassette",
+    "year": 1989,
+    "value": 6613900000
+  },
+  {
+    "name": "Cassette",
+    "year": 1990,
+    "value": 6512300000
+  },
+  {
+    "name": "Cassette",
+    "year": 1991,
+    "value": 5434400000
+  },
+  {
+    "name": "Cassette",
+    "year": 1992,
+    "value": 5444500000
+  },
+  {
+    "name": "Cassette",
+    "year": 1993,
+    "value": 4946200000
+  },
+  {
+    "name": "Cassette",
+    "year": 1994,
+    "value": 4922900000
+  },
+  {
+    "name": "Cassette",
+    "year": 1995,
+    "value": 3705100000
+  },
+  {
+    "name": "Cassette",
+    "year": 1996,
+    "value": 2976600000
+  },
+  {
+    "name": "Cassette",
+    "year": 1997,
+    "value": 2325500000
+  },
+  {
+    "name": "Cassette",
+    "year": 1998,
+    "value": 2135300000
+  },
+  {
+    "name": "Cassette",
+    "year": 1999,
+    "value": 1561900000
+  },
+  {
+    "name": "Cassette",
+    "year": 2000,
+    "value": 891100000
+  },
+  {
+    "name": "Cassette",
+    "year": 2001,
+    "value": 503000000
+  },
+  {
+    "name": "Cassette",
+    "year": 2002,
+    "value": 285900000
+  },
+  {
+    "name": "Cassette",
+    "year": 2003,
+    "value": 144000000
+  },
+  {
+    "name": "Cassette",
+    "year": 2004,
+    "value": 30800000
+  },
+  {
+    "name": "Cassette",
+    "year": 2005,
+    "value": 16400000
+  },
+  {
+    "name": "Cassette",
+    "year": 2006,
+    "value": 4500000
+  },
+  {
+    "name": "Cassette",
+    "year": 2007,
+    "value": 3500000
+  },
+  {
+    "name": "Cassette",
+    "year": 2008,
+    "value": 1000000
+  },
+  {
+    "name": "Cassette",
+    "year": 2009,
+    "value": 0
+  },
+  {
+    "name": "Cassette",
+    "year": 2010,
+    "value": 0
+  },
+  {
+    "name": "Cassette",
+    "year": 2011,
+    "value": 0
+  },
+  {
+    "name": "Cassette",
+    "year": 2012,
+    "value": 0
+  },
+  {
+    "name": "Cassette",
+    "year": 2013,
+    "value": 0
+  },
+  {
+    "name": "Cassette",
+    "year": 2014,
+    "value": 0
+  },
+  {
+    "name": "Cassette",
+    "year": 2015,
+    "value": 0
+  },
+  {
+    "name": "Cassette",
+    "year": 2016,
+    "value": 0
+  },
+  {
+    "name": "Cassette",
+    "year": 2017,
+    "value": 0
+  },
+  {
+    "name": "Cassette",
+    "year": 2018,
+    "value": 0
+  },
+  {
+    "name": "Cassette Single",
+    "year": 1973,
+    "value": 0
+  },
+  {
+    "name": "Cassette Single",
+    "year": 1974,
+    "value": 0
+  },
+  {
+    "name": "Cassette Single",
+    "year": 1975,
+    "value": 0
+  },
+  {
+    "name": "Cassette Single",
+    "year": 1976,
+    "value": 0
+  },
+  {
+    "name": "Cassette Single",
+    "year": 1977,
+    "value": 0
+  },
+  {
+    "name": "Cassette Single",
+    "year": 1978,
+    "value": 0
+  },
+  {
+    "name": "Cassette Single",
+    "year": 1979,
+    "value": 0
+  },
+  {
+    "name": "Cassette Single",
+    "year": 1980,
+    "value": 0
+  },
+  {
+    "name": "Cassette Single",
+    "year": 1981,
+    "value": 0
+  },
+  {
+    "name": "Cassette Single",
+    "year": 1982,
+    "value": 0
+  },
+  {
+    "name": "Cassette Single",
+    "year": 1983,
+    "value": 0
+  },
+  {
+    "name": "Cassette Single",
+    "year": 1984,
+    "value": 0
+  },
+  {
+    "name": "Cassette Single",
+    "year": 1985,
+    "value": 0
+  },
+  {
+    "name": "Cassette Single",
+    "year": 1986,
+    "value": 0
+  },
+  {
+    "name": "Cassette Single",
+    "year": 1987,
+    "value": 30900000
+  },
+  {
+    "name": "Cassette Single",
+    "year": 1988,
+    "value": 118700000
+  },
+  {
+    "name": "Cassette Single",
+    "year": 1989,
+    "value": 384700000
+  },
+  {
+    "name": "Cassette Single",
+    "year": 1990,
+    "value": 483700000
+  },
+  {
+    "name": "Cassette Single",
+    "year": 1991,
+    "value": 414700000
+  },
+  {
+    "name": "Cassette Single",
+    "year": 1992,
+    "value": 522000000
+  },
+  {
+    "name": "Cassette Single",
+    "year": 1993,
+    "value": 506400000
+  },
+  {
+    "name": "Cassette Single",
+    "year": 1994,
+    "value": 454700000
+  },
+  {
+    "name": "Cassette Single",
+    "year": 1995,
+    "value": 380100000
+  },
+  {
+    "name": "Cassette Single",
+    "year": 1996,
+    "value": 295700000
+  },
+  {
+    "name": "Cassette Single",
+    "year": 1997,
+    "value": 203900000
+  },
+  {
+    "name": "Cassette Single",
+    "year": 1998,
+    "value": 142000000
+  },
+  {
+    "name": "Cassette Single",
+    "year": 1999,
+    "value": 70600000
+  },
+  {
+    "name": "Cassette Single",
+    "year": 2000,
+    "value": 6500000
+  },
+  {
+    "name": "Cassette Single",
+    "year": 2001,
+    "value": -7300000
+  },
+  {
+    "name": "Cassette Single",
+    "year": 2002,
+    "value": -2200000
+  },
+  {
+    "name": "Cassette Single",
+    "year": 2003,
+    "value": 0
+  },
+  {
+    "name": "Cassette Single",
+    "year": 2004,
+    "value": 0
+  },
+  {
+    "name": "Cassette Single",
+    "year": 2005,
+    "value": 0
+  },
+  {
+    "name": "Cassette Single",
+    "year": 2006,
+    "value": 0
+  },
+  {
+    "name": "Cassette Single",
+    "year": 2007,
+    "value": 0
+  },
+  {
+    "name": "Cassette Single",
+    "year": 2008,
+    "value": 0
+  },
+  {
+    "name": "Cassette Single",
+    "year": 2009,
+    "value": 0
+  },
+  {
+    "name": "Cassette Single",
+    "year": 2010,
+    "value": 0
+  },
+  {
+    "name": "Cassette Single",
+    "year": 2011,
+    "value": 0
+  },
+  {
+    "name": "Cassette Single",
+    "year": 2012,
+    "value": 0
+  },
+  {
+    "name": "Cassette Single",
+    "year": 2013,
+    "value": 0
+  },
+  {
+    "name": "Cassette Single",
+    "year": 2014,
+    "value": 0
+  },
+  {
+    "name": "Cassette Single",
+    "year": 2015,
+    "value": 0
+  },
+  {
+    "name": "Cassette Single",
+    "year": 2016,
+    "value": 0
+  },
+  {
+    "name": "Cassette Single",
+    "year": 2017,
+    "value": 0
+  },
+  {
+    "name": "Cassette Single",
+    "year": 2018,
+    "value": 0
+  },
+  {
+    "name": "CD",
+    "year": 1973,
+    "value": 0
+  },
+  {
+    "name": "CD",
+    "year": 1974,
+    "value": 0
+  },
+  {
+    "name": "CD",
+    "year": 1975,
+    "value": 0
+  },
+  {
+    "name": "CD",
+    "year": 1976,
+    "value": 0
+  },
+  {
+    "name": "CD",
+    "year": 1977,
+    "value": 0
+  },
+  {
+    "name": "CD",
+    "year": 1978,
+    "value": 0
+  },
+  {
+    "name": "CD",
+    "year": 1979,
+    "value": 0
+  },
+  {
+    "name": "CD",
+    "year": 1980,
+    "value": 0
+  },
+  {
+    "name": "CD",
+    "year": 1981,
+    "value": 0
+  },
+  {
+    "name": "CD",
+    "year": 1982,
+    "value": 0
+  },
+  {
+    "name": "CD",
+    "year": 1983,
+    "value": 42300000
+  },
+  {
+    "name": "CD",
+    "year": 1984,
+    "value": 243700000
+  },
+  {
+    "name": "CD",
+    "year": 1985,
+    "value": 887300000
+  },
+  {
+    "name": "CD",
+    "year": 1986,
+    "value": 2080200000
+  },
+  {
+    "name": "CD",
+    "year": 1987,
+    "value": 3438600000
+  },
+  {
+    "name": "CD",
+    "year": 1988,
+    "value": 4330300000
+  },
+  {
+    "name": "CD",
+    "year": 1989,
+    "value": 5115300000
+  },
+  {
+    "name": "CD",
+    "year": 1990,
+    "value": 6473300000
+  },
+  {
+    "name": "CD",
+    "year": 1991,
+    "value": 7806600000
+  },
+  {
+    "name": "CD",
+    "year": 1992,
+    "value": 9306000000
+  },
+  {
+    "name": "CD",
+    "year": 1993,
+    "value": 11045500000
+  },
+  {
+    "name": "CD",
+    "year": 1994,
+    "value": 14000100000
+  },
+  {
+    "name": "CD",
+    "year": 1995,
+    "value": 15082600000
+  },
+  {
+    "name": "CD",
+    "year": 1996,
+    "value": 15520700000
+  },
+  {
+    "name": "CD",
+    "year": 1997,
+    "value": 15142600000
+  },
+  {
+    "name": "CD",
+    "year": 1998,
+    "value": 17167400000
+  },
+  {
+    "name": "CD",
+    "year": 1999,
+    "value": 18856700000
+  },
+  {
+    "name": "CD",
+    "year": 2000,
+    "value": 18810300000
+  },
+  {
+    "name": "CD",
+    "year": 2001,
+    "value": 17867600000
+  },
+  {
+    "name": "CD",
+    "year": 2002,
+    "value": 16410500000
+  },
+  {
+    "name": "CD",
+    "year": 2003,
+    "value": 14964200000
+  },
+  {
+    "name": "CD",
+    "year": 2004,
+    "value": 14853200000
+  },
+  {
+    "name": "CD",
+    "year": 2005,
+    "value": 13203800000
+  },
+  {
+    "name": "CD",
+    "year": 2006,
+    "value": 11395900000
+  },
+  {
+    "name": "CD",
+    "year": 2007,
+    "value": 8811900000
+  },
+  {
+    "name": "CD",
+    "year": 2008,
+    "value": 6229000000
+  },
+  {
+    "name": "CD",
+    "year": 2009,
+    "value": 4934500000
+  },
+  {
+    "name": "CD",
+    "year": 2010,
+    "value": 3810100000
+  },
+  {
+    "name": "CD",
+    "year": 2011,
+    "value": 3378900000
+  },
+  {
+    "name": "CD",
+    "year": 2012,
+    "value": 2718500000
+  },
+  {
+    "name": "CD",
+    "year": 2013,
+    "value": 2307700000
+  },
+  {
+    "name": "CD",
+    "year": 2014,
+    "value": 1884100000
+  },
+  {
+    "name": "CD",
+    "year": 2015,
+    "value": 1530900000
+  },
+  {
+    "name": "CD",
+    "year": 2016,
+    "value": 1183100000
+  },
+  {
+    "name": "CD",
+    "year": 2017,
+    "value": 1083100000
+  },
+  {
+    "name": "CD",
+    "year": 2018,
+    "value": 698400000
+  },
+  {
+    "name": "CD Single",
+    "year": 1973,
+    "value": 0
+  },
+  {
+    "name": "CD Single",
+    "year": 1974,
+    "value": 0
+  },
+  {
+    "name": "CD Single",
+    "year": 1975,
+    "value": 0
+  },
+  {
+    "name": "CD Single",
+    "year": 1976,
+    "value": 0
+  },
+  {
+    "name": "CD Single",
+    "year": 1977,
+    "value": 0
+  },
+  {
+    "name": "CD Single",
+    "year": 1978,
+    "value": 0
+  },
+  {
+    "name": "CD Single",
+    "year": 1979,
+    "value": 0
+  },
+  {
+    "name": "CD Single",
+    "year": 1980,
+    "value": 0
+  },
+  {
+    "name": "CD Single",
+    "year": 1981,
+    "value": 0
+  },
+  {
+    "name": "CD Single",
+    "year": 1982,
+    "value": 0
+  },
+  {
+    "name": "CD Single",
+    "year": 1983,
+    "value": 0
+  },
+  {
+    "name": "CD Single",
+    "year": 1984,
+    "value": 0
+  },
+  {
+    "name": "CD Single",
+    "year": 1985,
+    "value": 0
+  },
+  {
+    "name": "CD Single",
+    "year": 1986,
+    "value": 0
+  },
+  {
+    "name": "CD Single",
+    "year": 1987,
+    "value": 0
+  },
+  {
+    "name": "CD Single",
+    "year": 1988,
+    "value": 20300000
+  },
+  {
+    "name": "CD Single",
+    "year": 1989,
+    "value": -1400000
+  },
+  {
+    "name": "CD Single",
+    "year": 1990,
+    "value": 11300000
+  },
+  {
+    "name": "CD Single",
+    "year": 1991,
+    "value": 63200000
+  },
+  {
+    "name": "CD Single",
+    "year": 1992,
+    "value": 78800000
+  },
+  {
+    "name": "CD Single",
+    "year": 1993,
+    "value": 77700000
+  },
+  {
+    "name": "CD Single",
+    "year": 1994,
+    "value": 92800000
+  },
+  {
+    "name": "CD Single",
+    "year": 1995,
+    "value": 178400000
+  },
+  {
+    "name": "CD Single",
+    "year": 1996,
+    "value": 287600000
+  },
+  {
+    "name": "CD Single",
+    "year": 1997,
+    "value": 416500000
+  },
+  {
+    "name": "CD Single",
+    "year": 1998,
+    "value": 320600000
+  },
+  {
+    "name": "CD Single",
+    "year": 1999,
+    "value": 327200000
+  },
+  {
+    "name": "CD Single",
+    "year": 2000,
+    "value": 203100000
+  },
+  {
+    "name": "CD Single",
+    "year": 2001,
+    "value": 109900000
+  },
+  {
+    "name": "CD Single",
+    "year": 2002,
+    "value": 26700000
+  },
+  {
+    "name": "CD Single",
+    "year": 2003,
+    "value": 48000000
+  },
+  {
+    "name": "CD Single",
+    "year": 2004,
+    "value": 19500000
+  },
+  {
+    "name": "CD Single",
+    "year": 2005,
+    "value": 13700000
+  },
+  {
+    "name": "CD Single",
+    "year": 2006,
+    "value": 9400000
+  },
+  {
+    "name": "CD Single",
+    "year": 2007,
+    "value": 14400000
+  },
+  {
+    "name": "CD Single",
+    "year": 2008,
+    "value": 4000000
+  },
+  {
+    "name": "CD Single",
+    "year": 2009,
+    "value": 3500000
+  },
+  {
+    "name": "CD Single",
+    "year": 2010,
+    "value": 3300000
+  },
+  {
+    "name": "CD Single",
+    "year": 2011,
+    "value": 3800000
+  },
+  {
+    "name": "CD Single",
+    "year": 2012,
+    "value": 3500000
+  },
+  {
+    "name": "CD Single",
+    "year": 2013,
+    "value": 2600000
+  },
+  {
+    "name": "CD Single",
+    "year": 2014,
+    "value": 3800000
+  },
+  {
+    "name": "CD Single",
+    "year": 2015,
+    "value": 1300000
+  },
+  {
+    "name": "CD Single",
+    "year": 2016,
+    "value": 300000
+  },
+  {
+    "name": "CD Single",
+    "year": 2017,
+    "value": 1500000
+  },
+  {
+    "name": "CD Single",
+    "year": 2018,
+    "value": 200000
+  },
+  {
+    "name": "Download Album",
+    "year": 1973,
+    "value": 0
+  },
+  {
+    "name": "Download Album",
+    "year": 1974,
+    "value": 0
+  },
+  {
+    "name": "Download Album",
+    "year": 1975,
+    "value": 0
+  },
+  {
+    "name": "Download Album",
+    "year": 1976,
+    "value": 0
+  },
+  {
+    "name": "Download Album",
+    "year": 1977,
+    "value": 0
+  },
+  {
+    "name": "Download Album",
+    "year": 1978,
+    "value": 0
+  },
+  {
+    "name": "Download Album",
+    "year": 1979,
+    "value": 0
+  },
+  {
+    "name": "Download Album",
+    "year": 1980,
+    "value": 0
+  },
+  {
+    "name": "Download Album",
+    "year": 1981,
+    "value": 0
+  },
+  {
+    "name": "Download Album",
+    "year": 1982,
+    "value": 0
+  },
+  {
+    "name": "Download Album",
+    "year": 1983,
+    "value": 0
+  },
+  {
+    "name": "Download Album",
+    "year": 1984,
+    "value": 0
+  },
+  {
+    "name": "Download Album",
+    "year": 1985,
+    "value": 0
+  },
+  {
+    "name": "Download Album",
+    "year": 1986,
+    "value": 0
+  },
+  {
+    "name": "Download Album",
+    "year": 1987,
+    "value": 0
+  },
+  {
+    "name": "Download Album",
+    "year": 1988,
+    "value": 0
+  },
+  {
+    "name": "Download Album",
+    "year": 1989,
+    "value": 0
+  },
+  {
+    "name": "Download Album",
+    "year": 1990,
+    "value": 0
+  },
+  {
+    "name": "Download Album",
+    "year": 1991,
+    "value": 0
+  },
+  {
+    "name": "Download Album",
+    "year": 1992,
+    "value": 0
+  },
+  {
+    "name": "Download Album",
+    "year": 1993,
+    "value": 0
+  },
+  {
+    "name": "Download Album",
+    "year": 1994,
+    "value": 0
+  },
+  {
+    "name": "Download Album",
+    "year": 1995,
+    "value": 0
+  },
+  {
+    "name": "Download Album",
+    "year": 1996,
+    "value": 0
+  },
+  {
+    "name": "Download Album",
+    "year": 1997,
+    "value": 0
+  },
+  {
+    "name": "Download Album",
+    "year": 1998,
+    "value": 0
+  },
+  {
+    "name": "Download Album",
+    "year": 1999,
+    "value": 0
+  },
+  {
+    "name": "Download Album",
+    "year": 2000,
+    "value": 0
+  },
+  {
+    "name": "Download Album",
+    "year": 2001,
+    "value": 0
+  },
+  {
+    "name": "Download Album",
+    "year": 2002,
+    "value": 0
+  },
+  {
+    "name": "Download Album",
+    "year": 2003,
+    "value": 0
+  },
+  {
+    "name": "Download Album",
+    "year": 2004,
+    "value": 59000000
+  },
+  {
+    "name": "Download Album",
+    "year": 2005,
+    "value": 170300000
+  },
+  {
+    "name": "Download Album",
+    "year": 2006,
+    "value": 335500000
+  },
+  {
+    "name": "Download Album",
+    "year": 2007,
+    "value": 588100000
+  },
+  {
+    "name": "Download Album",
+    "year": 2008,
+    "value": 723300000
+  },
+  {
+    "name": "Download Album",
+    "year": 2009,
+    "value": 850400000
+  },
+  {
+    "name": "Download Album",
+    "year": 2010,
+    "value": 980700000
+  },
+  {
+    "name": "Download Album",
+    "year": 2011,
+    "value": 1166900000
+  },
+  {
+    "name": "Download Album",
+    "year": 2012,
+    "value": 1317700000
+  },
+  {
+    "name": "Download Album",
+    "year": 2013,
+    "value": 1328100000
+  },
+  {
+    "name": "Download Album",
+    "year": 2014,
+    "value": 1185800000
+  },
+  {
+    "name": "Download Album",
+    "year": 2015,
+    "value": 1127700000
+  },
+  {
+    "name": "Download Album",
+    "year": 2016,
+    "value": 908800000
+  },
+  {
+    "name": "Download Album",
+    "year": 2017,
+    "value": 684800000
+  },
+  {
+    "name": "Download Album",
+    "year": 2018,
+    "value": 499700000
+  },
+  {
+    "name": "Download Music Video",
+    "year": 1973,
+    "value": 0
+  },
+  {
+    "name": "Download Music Video",
+    "year": 1974,
+    "value": 0
+  },
+  {
+    "name": "Download Music Video",
+    "year": 1975,
+    "value": 0
+  },
+  {
+    "name": "Download Music Video",
+    "year": 1976,
+    "value": 0
+  },
+  {
+    "name": "Download Music Video",
+    "year": 1977,
+    "value": 0
+  },
+  {
+    "name": "Download Music Video",
+    "year": 1978,
+    "value": 0
+  },
+  {
+    "name": "Download Music Video",
+    "year": 1979,
+    "value": 0
+  },
+  {
+    "name": "Download Music Video",
+    "year": 1980,
+    "value": 0
+  },
+  {
+    "name": "Download Music Video",
+    "year": 1981,
+    "value": 0
+  },
+  {
+    "name": "Download Music Video",
+    "year": 1982,
+    "value": 0
+  },
+  {
+    "name": "Download Music Video",
+    "year": 1983,
+    "value": 0
+  },
+  {
+    "name": "Download Music Video",
+    "year": 1984,
+    "value": 0
+  },
+  {
+    "name": "Download Music Video",
+    "year": 1985,
+    "value": 0
+  },
+  {
+    "name": "Download Music Video",
+    "year": 1986,
+    "value": 0
+  },
+  {
+    "name": "Download Music Video",
+    "year": 1987,
+    "value": 0
+  },
+  {
+    "name": "Download Music Video",
+    "year": 1988,
+    "value": 0
+  },
+  {
+    "name": "Download Music Video",
+    "year": 1989,
+    "value": 0
+  },
+  {
+    "name": "Download Music Video",
+    "year": 1990,
+    "value": 0
+  },
+  {
+    "name": "Download Music Video",
+    "year": 1991,
+    "value": 0
+  },
+  {
+    "name": "Download Music Video",
+    "year": 1992,
+    "value": 0
+  },
+  {
+    "name": "Download Music Video",
+    "year": 1993,
+    "value": 0
+  },
+  {
+    "name": "Download Music Video",
+    "year": 1994,
+    "value": 0
+  },
+  {
+    "name": "Download Music Video",
+    "year": 1995,
+    "value": 0
+  },
+  {
+    "name": "Download Music Video",
+    "year": 1996,
+    "value": 0
+  },
+  {
+    "name": "Download Music Video",
+    "year": 1997,
+    "value": 0
+  },
+  {
+    "name": "Download Music Video",
+    "year": 1998,
+    "value": 0
+  },
+  {
+    "name": "Download Music Video",
+    "year": 1999,
+    "value": 0
+  },
+  {
+    "name": "Download Music Video",
+    "year": 2000,
+    "value": 0
+  },
+  {
+    "name": "Download Music Video",
+    "year": 2001,
+    "value": 0
+  },
+  {
+    "name": "Download Music Video",
+    "year": 2002,
+    "value": 0
+  },
+  {
+    "name": "Download Music Video",
+    "year": 2003,
+    "value": 0
+  },
+  {
+    "name": "Download Music Video",
+    "year": 2004,
+    "value": 0
+  },
+  {
+    "name": "Download Music Video",
+    "year": 2005,
+    "value": 4600000
+  },
+  {
+    "name": "Download Music Video",
+    "year": 2006,
+    "value": 24000000
+  },
+  {
+    "name": "Download Music Video",
+    "year": 2007,
+    "value": 33300000
+  },
+  {
+    "name": "Download Music Video",
+    "year": 2008,
+    "value": 47000000
+  },
+  {
+    "name": "Download Music Video",
+    "year": 2009,
+    "value": 46700000
+  },
+  {
+    "name": "Download Music Video",
+    "year": 2010,
+    "value": 41100000
+  },
+  {
+    "name": "Download Music Video",
+    "year": 2011,
+    "value": 35300000
+  },
+  {
+    "name": "Download Music Video",
+    "year": 2012,
+    "value": 22800000
+  },
+  {
+    "name": "Download Music Video",
+    "year": 2013,
+    "value": 18000000
+  },
+  {
+    "name": "Download Music Video",
+    "year": 2014,
+    "value": 14400000
+  },
+  {
+    "name": "Download Music Video",
+    "year": 2015,
+    "value": 6800000
+  },
+  {
+    "name": "Download Music Video",
+    "year": 2016,
+    "value": 4500000
+  },
+  {
+    "name": "Download Music Video",
+    "year": 2017,
+    "value": 2900000
+  },
+  {
+    "name": "Download Music Video",
+    "year": 2018,
+    "value": 2200000
+  },
+  {
+    "name": "Download Single",
+    "year": 1973,
+    "value": 0
+  },
+  {
+    "name": "Download Single",
+    "year": 1974,
+    "value": 0
+  },
+  {
+    "name": "Download Single",
+    "year": 1975,
+    "value": 0
+  },
+  {
+    "name": "Download Single",
+    "year": 1976,
+    "value": 0
+  },
+  {
+    "name": "Download Single",
+    "year": 1977,
+    "value": 0
+  },
+  {
+    "name": "Download Single",
+    "year": 1978,
+    "value": 0
+  },
+  {
+    "name": "Download Single",
+    "year": 1979,
+    "value": 0
+  },
+  {
+    "name": "Download Single",
+    "year": 1980,
+    "value": 0
+  },
+  {
+    "name": "Download Single",
+    "year": 1981,
+    "value": 0
+  },
+  {
+    "name": "Download Single",
+    "year": 1982,
+    "value": 0
+  },
+  {
+    "name": "Download Single",
+    "year": 1983,
+    "value": 0
+  },
+  {
+    "name": "Download Single",
+    "year": 1984,
+    "value": 0
+  },
+  {
+    "name": "Download Single",
+    "year": 1985,
+    "value": 0
+  },
+  {
+    "name": "Download Single",
+    "year": 1986,
+    "value": 0
+  },
+  {
+    "name": "Download Single",
+    "year": 1987,
+    "value": 0
+  },
+  {
+    "name": "Download Single",
+    "year": 1988,
+    "value": 0
+  },
+  {
+    "name": "Download Single",
+    "year": 1989,
+    "value": 0
+  },
+  {
+    "name": "Download Single",
+    "year": 1990,
+    "value": 0
+  },
+  {
+    "name": "Download Single",
+    "year": 1991,
+    "value": 0
+  },
+  {
+    "name": "Download Single",
+    "year": 1992,
+    "value": 0
+  },
+  {
+    "name": "Download Single",
+    "year": 1993,
+    "value": 0
+  },
+  {
+    "name": "Download Single",
+    "year": 1994,
+    "value": 0
+  },
+  {
+    "name": "Download Single",
+    "year": 1995,
+    "value": 0
+  },
+  {
+    "name": "Download Single",
+    "year": 1996,
+    "value": 0
+  },
+  {
+    "name": "Download Single",
+    "year": 1997,
+    "value": 0
+  },
+  {
+    "name": "Download Single",
+    "year": 1998,
+    "value": 0
+  },
+  {
+    "name": "Download Single",
+    "year": 1999,
+    "value": 0
+  },
+  {
+    "name": "Download Single",
+    "year": 2000,
+    "value": 0
+  },
+  {
+    "name": "Download Single",
+    "year": 2001,
+    "value": 0
+  },
+  {
+    "name": "Download Single",
+    "year": 2002,
+    "value": 0
+  },
+  {
+    "name": "Download Single",
+    "year": 2003,
+    "value": 0
+  },
+  {
+    "name": "Download Single",
+    "year": 2004,
+    "value": 179100000
+  },
+  {
+    "name": "Download Single",
+    "year": 2005,
+    "value": 456000000
+  },
+  {
+    "name": "Download Single",
+    "year": 2006,
+    "value": 705900000
+  },
+  {
+    "name": "Download Single",
+    "year": 2007,
+    "value": 959000000
+  },
+  {
+    "name": "Download Single",
+    "year": 2008,
+    "value": 1175100000
+  },
+  {
+    "name": "Download Single",
+    "year": 2009,
+    "value": 1339100000
+  },
+  {
+    "name": "Download Single",
+    "year": 2010,
+    "value": 1502300000
+  },
+  {
+    "name": "Download Single",
+    "year": 2011,
+    "value": 1659000000
+  },
+  {
+    "name": "Download Single",
+    "year": 2012,
+    "value": 1798700000
+  },
+  {
+    "name": "Download Single",
+    "year": 2013,
+    "value": 1696000000
+  },
+  {
+    "name": "Download Single",
+    "year": 2014,
+    "value": 1437600000
+  },
+  {
+    "name": "Download Single",
+    "year": 2015,
+    "value": 1255700000
+  },
+  {
+    "name": "Download Single",
+    "year": 2016,
+    "value": 941800000
+  },
+  {
+    "name": "Download Single",
+    "year": 2017,
+    "value": 695100000
+  },
+  {
+    "name": "Download Single",
+    "year": 2018,
+    "value": 490400000
+  },
+  {
+    "name": "DVD Audio",
+    "year": 1973,
+    "value": 0
+  },
+  {
+    "name": "DVD Audio",
+    "year": 1974,
+    "value": 0
+  },
+  {
+    "name": "DVD Audio",
+    "year": 1975,
+    "value": 0
+  },
+  {
+    "name": "DVD Audio",
+    "year": 1976,
+    "value": 0
+  },
+  {
+    "name": "DVD Audio",
+    "year": 1977,
+    "value": 0
+  },
+  {
+    "name": "DVD Audio",
+    "year": 1978,
+    "value": 0
+  },
+  {
+    "name": "DVD Audio",
+    "year": 1979,
+    "value": 0
+  },
+  {
+    "name": "DVD Audio",
+    "year": 1980,
+    "value": 0
+  },
+  {
+    "name": "DVD Audio",
+    "year": 1981,
+    "value": 0
+  },
+  {
+    "name": "DVD Audio",
+    "year": 1982,
+    "value": 0
+  },
+  {
+    "name": "DVD Audio",
+    "year": 1983,
+    "value": 0
+  },
+  {
+    "name": "DVD Audio",
+    "year": 1984,
+    "value": 0
+  },
+  {
+    "name": "DVD Audio",
+    "year": 1985,
+    "value": 0
+  },
+  {
+    "name": "DVD Audio",
+    "year": 1986,
+    "value": 0
+  },
+  {
+    "name": "DVD Audio",
+    "year": 1987,
+    "value": 0
+  },
+  {
+    "name": "DVD Audio",
+    "year": 1988,
+    "value": 0
+  },
+  {
+    "name": "DVD Audio",
+    "year": 1989,
+    "value": 0
+  },
+  {
+    "name": "DVD Audio",
+    "year": 1990,
+    "value": 0
+  },
+  {
+    "name": "DVD Audio",
+    "year": 1991,
+    "value": 0
+  },
+  {
+    "name": "DVD Audio",
+    "year": 1992,
+    "value": 0
+  },
+  {
+    "name": "DVD Audio",
+    "year": 1993,
+    "value": 0
+  },
+  {
+    "name": "DVD Audio",
+    "year": 1994,
+    "value": 0
+  },
+  {
+    "name": "DVD Audio",
+    "year": 1995,
+    "value": 0
+  },
+  {
+    "name": "DVD Audio",
+    "year": 1996,
+    "value": 0
+  },
+  {
+    "name": "DVD Audio",
+    "year": 1997,
+    "value": 0
+  },
+  {
+    "name": "DVD Audio",
+    "year": 1998,
+    "value": 0
+  },
+  {
+    "name": "DVD Audio",
+    "year": 1999,
+    "value": 0
+  },
+  {
+    "name": "DVD Audio",
+    "year": 2000,
+    "value": 0
+  },
+  {
+    "name": "DVD Audio",
+    "year": 2001,
+    "value": 8300000
+  },
+  {
+    "name": "DVD Audio",
+    "year": 2002,
+    "value": 11600000
+  },
+  {
+    "name": "DVD Audio",
+    "year": 2003,
+    "value": 10700000
+  },
+  {
+    "name": "DVD Audio",
+    "year": 2004,
+    "value": 8400000
+  },
+  {
+    "name": "DVD Audio",
+    "year": 2005,
+    "value": 14100000
+  },
+  {
+    "name": "DVD Audio",
+    "year": 2006,
+    "value": 2900000
+  },
+  {
+    "name": "DVD Audio",
+    "year": 2007,
+    "value": 3300000
+  },
+  {
+    "name": "DVD Audio",
+    "year": 2008,
+    "value": 1400000
+  },
+  {
+    "name": "DVD Audio",
+    "year": 2009,
+    "value": 1800000
+  },
+  {
+    "name": "DVD Audio",
+    "year": 2010,
+    "value": 1000000
+  },
+  {
+    "name": "DVD Audio",
+    "year": 2011,
+    "value": 300000
+  },
+  {
+    "name": "DVD Audio",
+    "year": 2012,
+    "value": 200000
+  },
+  {
+    "name": "DVD Audio",
+    "year": 2013,
+    "value": -500000
+  },
+  {
+    "name": "DVD Audio",
+    "year": 2014,
+    "value": 2300000
+  },
+  {
+    "name": "DVD Audio",
+    "year": 2015,
+    "value": 5700000
+  },
+  {
+    "name": "DVD Audio",
+    "year": 2016,
+    "value": 3000000
+  },
+  {
+    "name": "DVD Audio",
+    "year": 2017,
+    "value": 2700000
+  },
+  {
+    "name": "DVD Audio",
+    "year": 2018,
+    "value": 3300000
+  },
+  {
+    "name": "Kiosk",
+    "year": 1973,
+    "value": 0
+  },
+  {
+    "name": "Kiosk",
+    "year": 1974,
+    "value": 0
+  },
+  {
+    "name": "Kiosk",
+    "year": 1975,
+    "value": 0
+  },
+  {
+    "name": "Kiosk",
+    "year": 1976,
+    "value": 0
+  },
+  {
+    "name": "Kiosk",
+    "year": 1977,
+    "value": 0
+  },
+  {
+    "name": "Kiosk",
+    "year": 1978,
+    "value": 0
+  },
+  {
+    "name": "Kiosk",
+    "year": 1979,
+    "value": 0
+  },
+  {
+    "name": "Kiosk",
+    "year": 1980,
+    "value": 0
+  },
+  {
+    "name": "Kiosk",
+    "year": 1981,
+    "value": 0
+  },
+  {
+    "name": "Kiosk",
+    "year": 1982,
+    "value": 0
+  },
+  {
+    "name": "Kiosk",
+    "year": 1983,
+    "value": 0
+  },
+  {
+    "name": "Kiosk",
+    "year": 1984,
+    "value": 0
+  },
+  {
+    "name": "Kiosk",
+    "year": 1985,
+    "value": 0
+  },
+  {
+    "name": "Kiosk",
+    "year": 1986,
+    "value": 0
+  },
+  {
+    "name": "Kiosk",
+    "year": 1987,
+    "value": 0
+  },
+  {
+    "name": "Kiosk",
+    "year": 1988,
+    "value": 0
+  },
+  {
+    "name": "Kiosk",
+    "year": 1989,
+    "value": 0
+  },
+  {
+    "name": "Kiosk",
+    "year": 1990,
+    "value": 0
+  },
+  {
+    "name": "Kiosk",
+    "year": 1991,
+    "value": 0
+  },
+  {
+    "name": "Kiosk",
+    "year": 1992,
+    "value": 0
+  },
+  {
+    "name": "Kiosk",
+    "year": 1993,
+    "value": 0
+  },
+  {
+    "name": "Kiosk",
+    "year": 1994,
+    "value": 0
+  },
+  {
+    "name": "Kiosk",
+    "year": 1995,
+    "value": 0
+  },
+  {
+    "name": "Kiosk",
+    "year": 1996,
+    "value": 0
+  },
+  {
+    "name": "Kiosk",
+    "year": 1997,
+    "value": 0
+  },
+  {
+    "name": "Kiosk",
+    "year": 1998,
+    "value": 0
+  },
+  {
+    "name": "Kiosk",
+    "year": 1999,
+    "value": 0
+  },
+  {
+    "name": "Kiosk",
+    "year": 2000,
+    "value": 0
+  },
+  {
+    "name": "Kiosk",
+    "year": 2001,
+    "value": 0
+  },
+  {
+    "name": "Kiosk",
+    "year": 2002,
+    "value": 0
+  },
+  {
+    "name": "Kiosk",
+    "year": 2003,
+    "value": 0
+  },
+  {
+    "name": "Kiosk",
+    "year": 2004,
+    "value": 0
+  },
+  {
+    "name": "Kiosk",
+    "year": 2005,
+    "value": 1300000
+  },
+  {
+    "name": "Kiosk",
+    "year": 2006,
+    "value": 2300000
+  },
+  {
+    "name": "Kiosk",
+    "year": 2007,
+    "value": 3100000
+  },
+  {
+    "name": "Kiosk",
+    "year": 2008,
+    "value": 3000000
+  },
+  {
+    "name": "Kiosk",
+    "year": 2009,
+    "value": 7200000
+  },
+  {
+    "name": "Kiosk",
+    "year": 2010,
+    "value": 7200000
+  },
+  {
+    "name": "Kiosk",
+    "year": 2011,
+    "value": 2900000
+  },
+  {
+    "name": "Kiosk",
+    "year": 2012,
+    "value": 4000000
+  },
+  {
+    "name": "Kiosk",
+    "year": 2013,
+    "value": 6700000
+  },
+  {
+    "name": "Kiosk",
+    "year": 2014,
+    "value": 2700000
+  },
+  {
+    "name": "Kiosk",
+    "year": 2015,
+    "value": 3900000
+  },
+  {
+    "name": "Kiosk",
+    "year": 2016,
+    "value": 3100000
+  },
+  {
+    "name": "Kiosk",
+    "year": 2017,
+    "value": 2300000
+  },
+  {
+    "name": "Kiosk",
+    "year": 2018,
+    "value": 2000000
+  },
+  {
+    "name": "Limited Tier Paid Subscription",
+    "year": 1973,
+    "value": 0
+  },
+  {
+    "name": "Limited Tier Paid Subscription",
+    "year": 1974,
+    "value": 0
+  },
+  {
+    "name": "Limited Tier Paid Subscription",
+    "year": 1975,
+    "value": 0
+  },
+  {
+    "name": "Limited Tier Paid Subscription",
+    "year": 1976,
+    "value": 0
+  },
+  {
+    "name": "Limited Tier Paid Subscription",
+    "year": 1977,
+    "value": 0
+  },
+  {
+    "name": "Limited Tier Paid Subscription",
+    "year": 1978,
+    "value": 0
+  },
+  {
+    "name": "Limited Tier Paid Subscription",
+    "year": 1979,
+    "value": 0
+  },
+  {
+    "name": "Limited Tier Paid Subscription",
+    "year": 1980,
+    "value": 0
+  },
+  {
+    "name": "Limited Tier Paid Subscription",
+    "year": 1981,
+    "value": 0
+  },
+  {
+    "name": "Limited Tier Paid Subscription",
+    "year": 1982,
+    "value": 0
+  },
+  {
+    "name": "Limited Tier Paid Subscription",
+    "year": 1983,
+    "value": 0
+  },
+  {
+    "name": "Limited Tier Paid Subscription",
+    "year": 1984,
+    "value": 0
+  },
+  {
+    "name": "Limited Tier Paid Subscription",
+    "year": 1985,
+    "value": 0
+  },
+  {
+    "name": "Limited Tier Paid Subscription",
+    "year": 1986,
+    "value": 0
+  },
+  {
+    "name": "Limited Tier Paid Subscription",
+    "year": 1987,
+    "value": 0
+  },
+  {
+    "name": "Limited Tier Paid Subscription",
+    "year": 1988,
+    "value": 0
+  },
+  {
+    "name": "Limited Tier Paid Subscription",
+    "year": 1989,
+    "value": 0
+  },
+  {
+    "name": "Limited Tier Paid Subscription",
+    "year": 1990,
+    "value": 0
+  },
+  {
+    "name": "Limited Tier Paid Subscription",
+    "year": 1991,
+    "value": 0
+  },
+  {
+    "name": "Limited Tier Paid Subscription",
+    "year": 1992,
+    "value": 0
+  },
+  {
+    "name": "Limited Tier Paid Subscription",
+    "year": 1993,
+    "value": 0
+  },
+  {
+    "name": "Limited Tier Paid Subscription",
+    "year": 1994,
+    "value": 0
+  },
+  {
+    "name": "Limited Tier Paid Subscription",
+    "year": 1995,
+    "value": 0
+  },
+  {
+    "name": "Limited Tier Paid Subscription",
+    "year": 1996,
+    "value": 0
+  },
+  {
+    "name": "Limited Tier Paid Subscription",
+    "year": 1997,
+    "value": 0
+  },
+  {
+    "name": "Limited Tier Paid Subscription",
+    "year": 1998,
+    "value": 0
+  },
+  {
+    "name": "Limited Tier Paid Subscription",
+    "year": 1999,
+    "value": 0
+  },
+  {
+    "name": "Limited Tier Paid Subscription",
+    "year": 2000,
+    "value": 0
+  },
+  {
+    "name": "Limited Tier Paid Subscription",
+    "year": 2001,
+    "value": 0
+  },
+  {
+    "name": "Limited Tier Paid Subscription",
+    "year": 2002,
+    "value": 0
+  },
+  {
+    "name": "Limited Tier Paid Subscription",
+    "year": 2003,
+    "value": 0
+  },
+  {
+    "name": "Limited Tier Paid Subscription",
+    "year": 2004,
+    "value": 0
+  },
+  {
+    "name": "Limited Tier Paid Subscription",
+    "year": 2005,
+    "value": 0
+  },
+  {
+    "name": "Limited Tier Paid Subscription",
+    "year": 2006,
+    "value": 0
+  },
+  {
+    "name": "Limited Tier Paid Subscription",
+    "year": 2007,
+    "value": 0
+  },
+  {
+    "name": "Limited Tier Paid Subscription",
+    "year": 2008,
+    "value": 0
+  },
+  {
+    "name": "Limited Tier Paid Subscription",
+    "year": 2009,
+    "value": 0
+  },
+  {
+    "name": "Limited Tier Paid Subscription",
+    "year": 2010,
+    "value": 0
+  },
+  {
+    "name": "Limited Tier Paid Subscription",
+    "year": 2011,
+    "value": 0
+  },
+  {
+    "name": "Limited Tier Paid Subscription",
+    "year": 2012,
+    "value": 0
+  },
+  {
+    "name": "Limited Tier Paid Subscription",
+    "year": 2013,
+    "value": 0
+  },
+  {
+    "name": "Limited Tier Paid Subscription",
+    "year": 2014,
+    "value": 0
+  },
+  {
+    "name": "Limited Tier Paid Subscription",
+    "year": 2015,
+    "value": 0
+  },
+  {
+    "name": "Limited Tier Paid Subscription",
+    "year": 2016,
+    "value": 275500000
+  },
+  {
+    "name": "Limited Tier Paid Subscription",
+    "year": 2017,
+    "value": 606100000
+  },
+  {
+    "name": "Limited Tier Paid Subscription",
+    "year": 2018,
+    "value": 747100000
+  },
+  {
+    "name": "LP/EP",
+    "year": 1973,
+    "value": 6878800000
+  },
+  {
+    "name": "LP/EP",
+    "year": 1974,
+    "value": 6742000000
+  },
+  {
+    "name": "LP/EP",
+    "year": 1975,
+    "value": 6765900000
+  },
+  {
+    "name": "LP/EP",
+    "year": 1976,
+    "value": 7164100000
+  },
+  {
+    "name": "LP/EP",
+    "year": 1977,
+    "value": 8878900000
+  },
+  {
+    "name": "LP/EP",
+    "year": 1978,
+    "value": 9298400000
+  },
+  {
+    "name": "LP/EP",
+    "year": 1979,
+    "value": 6945100000
+  },
+  {
+    "name": "LP/EP",
+    "year": 1980,
+    "value": 6544500000
+  },
+  {
+    "name": "LP/EP",
+    "year": 1981,
+    "value": 6314600000
+  },
+  {
+    "name": "LP/EP",
+    "year": 1982,
+    "value": 4890000000
+  },
+  {
+    "name": "LP/EP",
+    "year": 1983,
+    "value": 4156700000
+  },
+  {
+    "name": "LP/EP",
+    "year": 1984,
+    "value": 3653900000
+  },
+  {
+    "name": "LP/EP",
+    "year": 1985,
+    "value": 2917100000
+  },
+  {
+    "name": "LP/EP",
+    "year": 1986,
+    "value": 2198500000
+  },
+  {
+    "name": "LP/EP",
+    "year": 1987,
+    "value": 1711300000
+  },
+  {
+    "name": "LP/EP",
+    "year": 1988,
+    "value": 1102700000
+  },
+  {
+    "name": "LP/EP",
+    "year": 1989,
+    "value": 435500000
+  },
+  {
+    "name": "LP/EP",
+    "year": 1990,
+    "value": 162200000
+  },
+  {
+    "name": "LP/EP",
+    "year": 1991,
+    "value": 52900000
+  },
+  {
+    "name": "LP/EP",
+    "year": 1992,
+    "value": 23600000
+  },
+  {
+    "name": "LP/EP",
+    "year": 1993,
+    "value": 18000000
+  },
+  {
+    "name": "LP/EP",
+    "year": 1994,
+    "value": 29400000
+  },
+  {
+    "name": "LP/EP",
+    "year": 1995,
+    "value": 40400000
+  },
+  {
+    "name": "LP/EP",
+    "year": 1996,
+    "value": 57500000
+  },
+  {
+    "name": "LP/EP",
+    "year": 1997,
+    "value": 50900000
+  },
+  {
+    "name": "LP/EP",
+    "year": 1998,
+    "value": 51100000
+  },
+  {
+    "name": "LP/EP",
+    "year": 1999,
+    "value": 46800000
+  },
+  {
+    "name": "LP/EP",
+    "year": 2000,
+    "value": 39400000
+  },
+  {
+    "name": "LP/EP",
+    "year": 2001,
+    "value": 37900000
+  },
+  {
+    "name": "LP/EP",
+    "year": 2002,
+    "value": 27900000
+  },
+  {
+    "name": "LP/EP",
+    "year": 2003,
+    "value": 28900000
+  },
+  {
+    "name": "LP/EP",
+    "year": 2004,
+    "value": 25000000
+  },
+  {
+    "name": "LP/EP",
+    "year": 2005,
+    "value": 17800000
+  },
+  {
+    "name": "LP/EP",
+    "year": 2006,
+    "value": 19100000
+  },
+  {
+    "name": "LP/EP",
+    "year": 2007,
+    "value": 27100000
+  },
+  {
+    "name": "LP/EP",
+    "year": 2008,
+    "value": 64600000
+  },
+  {
+    "name": "LP/EP",
+    "year": 2009,
+    "value": 72900000
+  },
+  {
+    "name": "LP/EP",
+    "year": 2010,
+    "value": 99900000
+  },
+  {
+    "name": "LP/EP",
+    "year": 2011,
+    "value": 130100000
+  },
+  {
+    "name": "LP/EP",
+    "year": 2012,
+    "value": 175800000
+  },
+  {
+    "name": "LP/EP",
+    "year": 2013,
+    "value": 227200000
+  },
+  {
+    "name": "LP/EP",
+    "year": 2014,
+    "value": 258700000
+  },
+  {
+    "name": "LP/EP",
+    "year": 2015,
+    "value": 353200000
+  },
+  {
+    "name": "LP/EP",
+    "year": 2016,
+    "value": 371900000
+  },
+  {
+    "name": "LP/EP",
+    "year": 2017,
+    "value": 398000000
+  },
+  {
+    "name": "LP/EP",
+    "year": 2018,
+    "value": 419200000
+  },
+  {
+    "name": "Music Video (Physical)",
+    "year": 1973,
+    "value": 0
+  },
+  {
+    "name": "Music Video (Physical)",
+    "year": 1974,
+    "value": 0
+  },
+  {
+    "name": "Music Video (Physical)",
+    "year": 1975,
+    "value": 0
+  },
+  {
+    "name": "Music Video (Physical)",
+    "year": 1976,
+    "value": 0
+  },
+  {
+    "name": "Music Video (Physical)",
+    "year": 1977,
+    "value": 0
+  },
+  {
+    "name": "Music Video (Physical)",
+    "year": 1978,
+    "value": 0
+  },
+  {
+    "name": "Music Video (Physical)",
+    "year": 1979,
+    "value": 0
+  },
+  {
+    "name": "Music Video (Physical)",
+    "year": 1980,
+    "value": 0
+  },
+  {
+    "name": "Music Video (Physical)",
+    "year": 1981,
+    "value": 0
+  },
+  {
+    "name": "Music Video (Physical)",
+    "year": 1982,
+    "value": 0
+  },
+  {
+    "name": "Music Video (Physical)",
+    "year": 1983,
+    "value": 0
+  },
+  {
+    "name": "Music Video (Physical)",
+    "year": 1984,
+    "value": 0
+  },
+  {
+    "name": "Music Video (Physical)",
+    "year": 1985,
+    "value": 0
+  },
+  {
+    "name": "Music Video (Physical)",
+    "year": 1986,
+    "value": 0
+  },
+  {
+    "name": "Music Video (Physical)",
+    "year": 1987,
+    "value": 0
+  },
+  {
+    "name": "Music Video (Physical)",
+    "year": 1988,
+    "value": 0
+  },
+  {
+    "name": "Music Video (Physical)",
+    "year": 1989,
+    "value": 228100000
+  },
+  {
+    "name": "Music Video (Physical)",
+    "year": 1990,
+    "value": 323100000
+  },
+  {
+    "name": "Music Video (Physical)",
+    "year": 1991,
+    "value": 212500000
+  },
+  {
+    "name": "Music Video (Physical)",
+    "year": 1992,
+    "value": 275000000
+  },
+  {
+    "name": "Music Video (Physical)",
+    "year": 1993,
+    "value": 361800000
+  },
+  {
+    "name": "Music Video (Physical)",
+    "year": 1994,
+    "value": 382200000
+  },
+  {
+    "name": "Music Video (Physical)",
+    "year": 1995,
+    "value": 354300000
+  },
+  {
+    "name": "Music Video (Physical)",
+    "year": 1996,
+    "value": 368900000
+  },
+  {
+    "name": "Music Video (Physical)",
+    "year": 1997,
+    "value": 494700000
+  },
+  {
+    "name": "Music Video (Physical)",
+    "year": 1998,
+    "value": 763900000
+  },
+  {
+    "name": "Music Video (Physical)",
+    "year": 1999,
+    "value": 554200000
+  },
+  {
+    "name": "Music Video (Physical)",
+    "year": 2000,
+    "value": 401300000
+  },
+  {
+    "name": "Music Video (Physical)",
+    "year": 2001,
+    "value": 455600000
+  },
+  {
+    "name": "Music Video (Physical)",
+    "year": 2002,
+    "value": 393000000
+  },
+  {
+    "name": "Music Video (Physical)",
+    "year": 2003,
+    "value": 532700000
+  },
+  {
+    "name": "Music Video (Physical)",
+    "year": 2004,
+    "value": 787900000
+  },
+  {
+    "name": "Music Video (Physical)",
+    "year": 2005,
+    "value": 755800000
+  },
+  {
+    "name": "Music Video (Physical)",
+    "year": 2006,
+    "value": 548500000
+  },
+  {
+    "name": "Music Video (Physical)",
+    "year": 2007,
+    "value": 573400000
+  },
+  {
+    "name": "Music Video (Physical)",
+    "year": 2008,
+    "value": 258800000
+  },
+  {
+    "name": "Music Video (Physical)",
+    "year": 2009,
+    "value": 239500000
+  },
+  {
+    "name": "Music Video (Physical)",
+    "year": 2010,
+    "value": 199600000
+  },
+  {
+    "name": "Music Video (Physical)",
+    "year": 2011,
+    "value": 164500000
+  },
+  {
+    "name": "Music Video (Physical)",
+    "year": 2012,
+    "value": 127500000
+  },
+  {
+    "name": "Music Video (Physical)",
+    "year": 2013,
+    "value": 114600000
+  },
+  {
+    "name": "Music Video (Physical)",
+    "year": 2014,
+    "value": 95200000
+  },
+  {
+    "name": "Music Video (Physical)",
+    "year": 2015,
+    "value": 74600000
+  },
+  {
+    "name": "Music Video (Physical)",
+    "year": 2016,
+    "value": 59600000
+  },
+  {
+    "name": "Music Video (Physical)",
+    "year": 2017,
+    "value": 39600000
+  },
+  {
+    "name": "Music Video (Physical)",
+    "year": 2018,
+    "value": 27600000
+  },
+  {
+    "name": "On-Demand Streaming (Ad-Supported)",
+    "year": 1973,
+    "value": 0
+  },
+  {
+    "name": "On-Demand Streaming (Ad-Supported)",
+    "year": 1974,
+    "value": 0
+  },
+  {
+    "name": "On-Demand Streaming (Ad-Supported)",
+    "year": 1975,
+    "value": 0
+  },
+  {
+    "name": "On-Demand Streaming (Ad-Supported)",
+    "year": 1976,
+    "value": 0
+  },
+  {
+    "name": "On-Demand Streaming (Ad-Supported)",
+    "year": 1977,
+    "value": 0
+  },
+  {
+    "name": "On-Demand Streaming (Ad-Supported)",
+    "year": 1978,
+    "value": 0
+  },
+  {
+    "name": "On-Demand Streaming (Ad-Supported)",
+    "year": 1979,
+    "value": 0
+  },
+  {
+    "name": "On-Demand Streaming (Ad-Supported)",
+    "year": 1980,
+    "value": 0
+  },
+  {
+    "name": "On-Demand Streaming (Ad-Supported)",
+    "year": 1981,
+    "value": 0
+  },
+  {
+    "name": "On-Demand Streaming (Ad-Supported)",
+    "year": 1982,
+    "value": 0
+  },
+  {
+    "name": "On-Demand Streaming (Ad-Supported)",
+    "year": 1983,
+    "value": 0
+  },
+  {
+    "name": "On-Demand Streaming (Ad-Supported)",
+    "year": 1984,
+    "value": 0
+  },
+  {
+    "name": "On-Demand Streaming (Ad-Supported)",
+    "year": 1985,
+    "value": 0
+  },
+  {
+    "name": "On-Demand Streaming (Ad-Supported)",
+    "year": 1986,
+    "value": 0
+  },
+  {
+    "name": "On-Demand Streaming (Ad-Supported)",
+    "year": 1987,
+    "value": 0
+  },
+  {
+    "name": "On-Demand Streaming (Ad-Supported)",
+    "year": 1988,
+    "value": 0
+  },
+  {
+    "name": "On-Demand Streaming (Ad-Supported)",
+    "year": 1989,
+    "value": 0
+  },
+  {
+    "name": "On-Demand Streaming (Ad-Supported)",
+    "year": 1990,
+    "value": 0
+  },
+  {
+    "name": "On-Demand Streaming (Ad-Supported)",
+    "year": 1991,
+    "value": 0
+  },
+  {
+    "name": "On-Demand Streaming (Ad-Supported)",
+    "year": 1992,
+    "value": 0
+  },
+  {
+    "name": "On-Demand Streaming (Ad-Supported)",
+    "year": 1993,
+    "value": 0
+  },
+  {
+    "name": "On-Demand Streaming (Ad-Supported)",
+    "year": 1994,
+    "value": 0
+  },
+  {
+    "name": "On-Demand Streaming (Ad-Supported)",
+    "year": 1995,
+    "value": 0
+  },
+  {
+    "name": "On-Demand Streaming (Ad-Supported)",
+    "year": 1996,
+    "value": 0
+  },
+  {
+    "name": "On-Demand Streaming (Ad-Supported)",
+    "year": 1997,
+    "value": 0
+  },
+  {
+    "name": "On-Demand Streaming (Ad-Supported)",
+    "year": 1998,
+    "value": 0
+  },
+  {
+    "name": "On-Demand Streaming (Ad-Supported)",
+    "year": 1999,
+    "value": 0
+  },
+  {
+    "name": "On-Demand Streaming (Ad-Supported)",
+    "year": 2000,
+    "value": 0
+  },
+  {
+    "name": "On-Demand Streaming (Ad-Supported)",
+    "year": 2001,
+    "value": 0
+  },
+  {
+    "name": "On-Demand Streaming (Ad-Supported)",
+    "year": 2002,
+    "value": 0
+  },
+  {
+    "name": "On-Demand Streaming (Ad-Supported)",
+    "year": 2003,
+    "value": 0
+  },
+  {
+    "name": "On-Demand Streaming (Ad-Supported)",
+    "year": 2004,
+    "value": 0
+  },
+  {
+    "name": "On-Demand Streaming (Ad-Supported)",
+    "year": 2005,
+    "value": 0
+  },
+  {
+    "name": "On-Demand Streaming (Ad-Supported)",
+    "year": 2006,
+    "value": 0
+  },
+  {
+    "name": "On-Demand Streaming (Ad-Supported)",
+    "year": 2007,
+    "value": 0
+  },
+  {
+    "name": "On-Demand Streaming (Ad-Supported)",
+    "year": 2008,
+    "value": 0
+  },
+  {
+    "name": "On-Demand Streaming (Ad-Supported)",
+    "year": 2009,
+    "value": 0
+  },
+  {
+    "name": "On-Demand Streaming (Ad-Supported)",
+    "year": 2010,
+    "value": 0
+  },
+  {
+    "name": "On-Demand Streaming (Ad-Supported)",
+    "year": 2011,
+    "value": 124000000
+  },
+  {
+    "name": "On-Demand Streaming (Ad-Supported)",
+    "year": 2012,
+    "value": 187000000
+  },
+  {
+    "name": "On-Demand Streaming (Ad-Supported)",
+    "year": 2013,
+    "value": 238100000
+  },
+  {
+    "name": "On-Demand Streaming (Ad-Supported)",
+    "year": 2014,
+    "value": 301000000
+  },
+  {
+    "name": "On-Demand Streaming (Ad-Supported)",
+    "year": 2015,
+    "value": 394100000
+  },
+  {
+    "name": "On-Demand Streaming (Ad-Supported)",
+    "year": 2016,
+    "value": 512000000
+  },
+  {
+    "name": "On-Demand Streaming (Ad-Supported)",
+    "year": 2017,
+    "value": 674700000
+  },
+  {
+    "name": "On-Demand Streaming (Ad-Supported)",
+    "year": 2018,
+    "value": 759500000
+  },
+  {
+    "name": "Other Ad-Supported Streaming",
+    "year": 1973,
+    "value": 0
+  },
+  {
+    "name": "Other Ad-Supported Streaming",
+    "year": 1974,
+    "value": 0
+  },
+  {
+    "name": "Other Ad-Supported Streaming",
+    "year": 1975,
+    "value": 0
+  },
+  {
+    "name": "Other Ad-Supported Streaming",
+    "year": 1976,
+    "value": 0
+  },
+  {
+    "name": "Other Ad-Supported Streaming",
+    "year": 1977,
+    "value": 0
+  },
+  {
+    "name": "Other Ad-Supported Streaming",
+    "year": 1978,
+    "value": 0
+  },
+  {
+    "name": "Other Ad-Supported Streaming",
+    "year": 1979,
+    "value": 0
+  },
+  {
+    "name": "Other Ad-Supported Streaming",
+    "year": 1980,
+    "value": 0
+  },
+  {
+    "name": "Other Ad-Supported Streaming",
+    "year": 1981,
+    "value": 0
+  },
+  {
+    "name": "Other Ad-Supported Streaming",
+    "year": 1982,
+    "value": 0
+  },
+  {
+    "name": "Other Ad-Supported Streaming",
+    "year": 1983,
+    "value": 0
+  },
+  {
+    "name": "Other Ad-Supported Streaming",
+    "year": 1984,
+    "value": 0
+  },
+  {
+    "name": "Other Ad-Supported Streaming",
+    "year": 1985,
+    "value": 0
+  },
+  {
+    "name": "Other Ad-Supported Streaming",
+    "year": 1986,
+    "value": 0
+  },
+  {
+    "name": "Other Ad-Supported Streaming",
+    "year": 1987,
+    "value": 0
+  },
+  {
+    "name": "Other Ad-Supported Streaming",
+    "year": 1988,
+    "value": 0
+  },
+  {
+    "name": "Other Ad-Supported Streaming",
+    "year": 1989,
+    "value": 0
+  },
+  {
+    "name": "Other Ad-Supported Streaming",
+    "year": 1990,
+    "value": 0
+  },
+  {
+    "name": "Other Ad-Supported Streaming",
+    "year": 1991,
+    "value": 0
+  },
+  {
+    "name": "Other Ad-Supported Streaming",
+    "year": 1992,
+    "value": 0
+  },
+  {
+    "name": "Other Ad-Supported Streaming",
+    "year": 1993,
+    "value": 0
+  },
+  {
+    "name": "Other Ad-Supported Streaming",
+    "year": 1994,
+    "value": 0
+  },
+  {
+    "name": "Other Ad-Supported Streaming",
+    "year": 1995,
+    "value": 0
+  },
+  {
+    "name": "Other Ad-Supported Streaming",
+    "year": 1996,
+    "value": 0
+  },
+  {
+    "name": "Other Ad-Supported Streaming",
+    "year": 1997,
+    "value": 0
+  },
+  {
+    "name": "Other Ad-Supported Streaming",
+    "year": 1998,
+    "value": 0
+  },
+  {
+    "name": "Other Ad-Supported Streaming",
+    "year": 1999,
+    "value": 0
+  },
+  {
+    "name": "Other Ad-Supported Streaming",
+    "year": 2000,
+    "value": 0
+  },
+  {
+    "name": "Other Ad-Supported Streaming",
+    "year": 2001,
+    "value": 0
+  },
+  {
+    "name": "Other Ad-Supported Streaming",
+    "year": 2002,
+    "value": 0
+  },
+  {
+    "name": "Other Ad-Supported Streaming",
+    "year": 2003,
+    "value": 0
+  },
+  {
+    "name": "Other Ad-Supported Streaming",
+    "year": 2004,
+    "value": 0
+  },
+  {
+    "name": "Other Ad-Supported Streaming",
+    "year": 2005,
+    "value": 0
+  },
+  {
+    "name": "Other Ad-Supported Streaming",
+    "year": 2006,
+    "value": 0
+  },
+  {
+    "name": "Other Ad-Supported Streaming",
+    "year": 2007,
+    "value": 0
+  },
+  {
+    "name": "Other Ad-Supported Streaming",
+    "year": 2008,
+    "value": 0
+  },
+  {
+    "name": "Other Ad-Supported Streaming",
+    "year": 2009,
+    "value": 0
+  },
+  {
+    "name": "Other Ad-Supported Streaming",
+    "year": 2010,
+    "value": 0
+  },
+  {
+    "name": "Other Ad-Supported Streaming",
+    "year": 2011,
+    "value": 0
+  },
+  {
+    "name": "Other Ad-Supported Streaming",
+    "year": 2012,
+    "value": 0
+  },
+  {
+    "name": "Other Ad-Supported Streaming",
+    "year": 2013,
+    "value": 0
+  },
+  {
+    "name": "Other Ad-Supported Streaming",
+    "year": 2014,
+    "value": 0
+  },
+  {
+    "name": "Other Ad-Supported Streaming",
+    "year": 2015,
+    "value": 0
+  },
+  {
+    "name": "Other Ad-Supported Streaming",
+    "year": 2016,
+    "value": 85000000
+  },
+  {
+    "name": "Other Ad-Supported Streaming",
+    "year": 2017,
+    "value": 268200000
+  },
+  {
+    "name": "Other Ad-Supported Streaming",
+    "year": 2018,
+    "value": 251400000
+  },
+  {
+    "name": "Other Digital",
+    "year": 1973,
+    "value": 0
+  },
+  {
+    "name": "Other Digital",
+    "year": 1974,
+    "value": 0
+  },
+  {
+    "name": "Other Digital",
+    "year": 1975,
+    "value": 0
+  },
+  {
+    "name": "Other Digital",
+    "year": 1976,
+    "value": 0
+  },
+  {
+    "name": "Other Digital",
+    "year": 1977,
+    "value": 0
+  },
+  {
+    "name": "Other Digital",
+    "year": 1978,
+    "value": 0
+  },
+  {
+    "name": "Other Digital",
+    "year": 1979,
+    "value": 0
+  },
+  {
+    "name": "Other Digital",
+    "year": 1980,
+    "value": 0
+  },
+  {
+    "name": "Other Digital",
+    "year": 1981,
+    "value": 0
+  },
+  {
+    "name": "Other Digital",
+    "year": 1982,
+    "value": 0
+  },
+  {
+    "name": "Other Digital",
+    "year": 1983,
+    "value": 0
+  },
+  {
+    "name": "Other Digital",
+    "year": 1984,
+    "value": 0
+  },
+  {
+    "name": "Other Digital",
+    "year": 1985,
+    "value": 0
+  },
+  {
+    "name": "Other Digital",
+    "year": 1986,
+    "value": 0
+  },
+  {
+    "name": "Other Digital",
+    "year": 1987,
+    "value": 0
+  },
+  {
+    "name": "Other Digital",
+    "year": 1988,
+    "value": 0
+  },
+  {
+    "name": "Other Digital",
+    "year": 1989,
+    "value": 0
+  },
+  {
+    "name": "Other Digital",
+    "year": 1990,
+    "value": 0
+  },
+  {
+    "name": "Other Digital",
+    "year": 1991,
+    "value": 0
+  },
+  {
+    "name": "Other Digital",
+    "year": 1992,
+    "value": 0
+  },
+  {
+    "name": "Other Digital",
+    "year": 1993,
+    "value": 0
+  },
+  {
+    "name": "Other Digital",
+    "year": 1994,
+    "value": 0
+  },
+  {
+    "name": "Other Digital",
+    "year": 1995,
+    "value": 0
+  },
+  {
+    "name": "Other Digital",
+    "year": 1996,
+    "value": 0
+  },
+  {
+    "name": "Other Digital",
+    "year": 1997,
+    "value": 0
+  },
+  {
+    "name": "Other Digital",
+    "year": 1998,
+    "value": 0
+  },
+  {
+    "name": "Other Digital",
+    "year": 1999,
+    "value": 0
+  },
+  {
+    "name": "Other Digital",
+    "year": 2000,
+    "value": 0
+  },
+  {
+    "name": "Other Digital",
+    "year": 2001,
+    "value": 0
+  },
+  {
+    "name": "Other Digital",
+    "year": 2002,
+    "value": 0
+  },
+  {
+    "name": "Other Digital",
+    "year": 2003,
+    "value": 0
+  },
+  {
+    "name": "Other Digital",
+    "year": 2004,
+    "value": 0
+  },
+  {
+    "name": "Other Digital",
+    "year": 2005,
+    "value": 0
+  },
+  {
+    "name": "Other Digital",
+    "year": 2006,
+    "value": 0
+  },
+  {
+    "name": "Other Digital",
+    "year": 2007,
+    "value": 0
+  },
+  {
+    "name": "Other Digital",
+    "year": 2008,
+    "value": 0
+  },
+  {
+    "name": "Other Digital",
+    "year": 2009,
+    "value": 0
+  },
+  {
+    "name": "Other Digital",
+    "year": 2010,
+    "value": 0
+  },
+  {
+    "name": "Other Digital",
+    "year": 2011,
+    "value": 0
+  },
+  {
+    "name": "Other Digital",
+    "year": 2012,
+    "value": 0
+  },
+  {
+    "name": "Other Digital",
+    "year": 2013,
+    "value": 0
+  },
+  {
+    "name": "Other Digital",
+    "year": 2014,
+    "value": 0
+  },
+  {
+    "name": "Other Digital",
+    "year": 2015,
+    "value": 0
+  },
+  {
+    "name": "Other Digital",
+    "year": 2016,
+    "value": 17900000
+  },
+  {
+    "name": "Other Digital",
+    "year": 2017,
+    "value": 17300000
+  },
+  {
+    "name": "Other Digital",
+    "year": 2018,
+    "value": 19800000
+  },
+  {
+    "name": "Other Tapes",
+    "year": 1973,
+    "value": 86100000
+  },
+  {
+    "name": "Other Tapes",
+    "year": 1974,
+    "value": 66100000
+  },
+  {
+    "name": "Other Tapes",
+    "year": 1975,
+    "value": 46500000
+  },
+  {
+    "name": "Other Tapes",
+    "year": 1976,
+    "value": 22000000
+  },
+  {
+    "name": "Other Tapes",
+    "year": 1977,
+    "value": 0
+  },
+  {
+    "name": "Other Tapes",
+    "year": 1978,
+    "value": 0
+  },
+  {
+    "name": "Other Tapes",
+    "year": 1979,
+    "value": 0
+  },
+  {
+    "name": "Other Tapes",
+    "year": 1980,
+    "value": 0
+  },
+  {
+    "name": "Other Tapes",
+    "year": 1981,
+    "value": 0
+  },
+  {
+    "name": "Other Tapes",
+    "year": 1982,
+    "value": 0
+  },
+  {
+    "name": "Other Tapes",
+    "year": 1983,
+    "value": 0
+  },
+  {
+    "name": "Other Tapes",
+    "year": 1984,
+    "value": 0
+  },
+  {
+    "name": "Other Tapes",
+    "year": 1985,
+    "value": 0
+  },
+  {
+    "name": "Other Tapes",
+    "year": 1986,
+    "value": 0
+  },
+  {
+    "name": "Other Tapes",
+    "year": 1987,
+    "value": 0
+  },
+  {
+    "name": "Other Tapes",
+    "year": 1988,
+    "value": 0
+  },
+  {
+    "name": "Other Tapes",
+    "year": 1989,
+    "value": 0
+  },
+  {
+    "name": "Other Tapes",
+    "year": 1990,
+    "value": 0
+  },
+  {
+    "name": "Other Tapes",
+    "year": 1991,
+    "value": 0
+  },
+  {
+    "name": "Other Tapes",
+    "year": 1992,
+    "value": 0
+  },
+  {
+    "name": "Other Tapes",
+    "year": 1993,
+    "value": 0
+  },
+  {
+    "name": "Other Tapes",
+    "year": 1994,
+    "value": 0
+  },
+  {
+    "name": "Other Tapes",
+    "year": 1995,
+    "value": 0
+  },
+  {
+    "name": "Other Tapes",
+    "year": 1996,
+    "value": 0
+  },
+  {
+    "name": "Other Tapes",
+    "year": 1997,
+    "value": 0
+  },
+  {
+    "name": "Other Tapes",
+    "year": 1998,
+    "value": 0
+  },
+  {
+    "name": "Other Tapes",
+    "year": 1999,
+    "value": 0
+  },
+  {
+    "name": "Other Tapes",
+    "year": 2000,
+    "value": 0
+  },
+  {
+    "name": "Other Tapes",
+    "year": 2001,
+    "value": 0
+  },
+  {
+    "name": "Other Tapes",
+    "year": 2002,
+    "value": 0
+  },
+  {
+    "name": "Other Tapes",
+    "year": 2003,
+    "value": 0
+  },
+  {
+    "name": "Other Tapes",
+    "year": 2004,
+    "value": 0
+  },
+  {
+    "name": "Other Tapes",
+    "year": 2005,
+    "value": 0
+  },
+  {
+    "name": "Other Tapes",
+    "year": 2006,
+    "value": 0
+  },
+  {
+    "name": "Other Tapes",
+    "year": 2007,
+    "value": 0
+  },
+  {
+    "name": "Other Tapes",
+    "year": 2008,
+    "value": 0
+  },
+  {
+    "name": "Other Tapes",
+    "year": 2009,
+    "value": 0
+  },
+  {
+    "name": "Other Tapes",
+    "year": 2010,
+    "value": 0
+  },
+  {
+    "name": "Other Tapes",
+    "year": 2011,
+    "value": 0
+  },
+  {
+    "name": "Other Tapes",
+    "year": 2012,
+    "value": 0
+  },
+  {
+    "name": "Other Tapes",
+    "year": 2013,
+    "value": 0
+  },
+  {
+    "name": "Other Tapes",
+    "year": 2014,
+    "value": 0
+  },
+  {
+    "name": "Other Tapes",
+    "year": 2015,
+    "value": 0
+  },
+  {
+    "name": "Other Tapes",
+    "year": 2016,
+    "value": 0
+  },
+  {
+    "name": "Other Tapes",
+    "year": 2017,
+    "value": 0
+  },
+  {
+    "name": "Other Tapes",
+    "year": 2018,
+    "value": 0
+  },
+  {
+    "name": "Paid Subscription",
+    "year": 1973,
+    "value": 0
+  },
+  {
+    "name": "Paid Subscription",
+    "year": 1974,
+    "value": 0
+  },
+  {
+    "name": "Paid Subscription",
+    "year": 1975,
+    "value": 0
+  },
+  {
+    "name": "Paid Subscription",
+    "year": 1976,
+    "value": 0
+  },
+  {
+    "name": "Paid Subscription",
+    "year": 1977,
+    "value": 0
+  },
+  {
+    "name": "Paid Subscription",
+    "year": 1978,
+    "value": 0
+  },
+  {
+    "name": "Paid Subscription",
+    "year": 1979,
+    "value": 0
+  },
+  {
+    "name": "Paid Subscription",
+    "year": 1980,
+    "value": 0
+  },
+  {
+    "name": "Paid Subscription",
+    "year": 1981,
+    "value": 0
+  },
+  {
+    "name": "Paid Subscription",
+    "year": 1982,
+    "value": 0
+  },
+  {
+    "name": "Paid Subscription",
+    "year": 1983,
+    "value": 0
+  },
+  {
+    "name": "Paid Subscription",
+    "year": 1984,
+    "value": 0
+  },
+  {
+    "name": "Paid Subscription",
+    "year": 1985,
+    "value": 0
+  },
+  {
+    "name": "Paid Subscription",
+    "year": 1986,
+    "value": 0
+  },
+  {
+    "name": "Paid Subscription",
+    "year": 1987,
+    "value": 0
+  },
+  {
+    "name": "Paid Subscription",
+    "year": 1988,
+    "value": 0
+  },
+  {
+    "name": "Paid Subscription",
+    "year": 1989,
+    "value": 0
+  },
+  {
+    "name": "Paid Subscription",
+    "year": 1990,
+    "value": 0
+  },
+  {
+    "name": "Paid Subscription",
+    "year": 1991,
+    "value": 0
+  },
+  {
+    "name": "Paid Subscription",
+    "year": 1992,
+    "value": 0
+  },
+  {
+    "name": "Paid Subscription",
+    "year": 1993,
+    "value": 0
+  },
+  {
+    "name": "Paid Subscription",
+    "year": 1994,
+    "value": 0
+  },
+  {
+    "name": "Paid Subscription",
+    "year": 1995,
+    "value": 0
+  },
+  {
+    "name": "Paid Subscription",
+    "year": 1996,
+    "value": 0
+  },
+  {
+    "name": "Paid Subscription",
+    "year": 1997,
+    "value": 0
+  },
+  {
+    "name": "Paid Subscription",
+    "year": 1998,
+    "value": 0
+  },
+  {
+    "name": "Paid Subscription",
+    "year": 1999,
+    "value": 0
+  },
+  {
+    "name": "Paid Subscription",
+    "year": 2000,
+    "value": 0
+  },
+  {
+    "name": "Paid Subscription",
+    "year": 2001,
+    "value": 0
+  },
+  {
+    "name": "Paid Subscription",
+    "year": 2002,
+    "value": 0
+  },
+  {
+    "name": "Paid Subscription",
+    "year": 2003,
+    "value": 0
+  },
+  {
+    "name": "Paid Subscription",
+    "year": 2004,
+    "value": 0
+  },
+  {
+    "name": "Paid Subscription",
+    "year": 2005,
+    "value": 187300000
+  },
+  {
+    "name": "Paid Subscription",
+    "year": 2006,
+    "value": 250700000
+  },
+  {
+    "name": "Paid Subscription",
+    "year": 2007,
+    "value": 276700000
+  },
+  {
+    "name": "Paid Subscription",
+    "year": 2008,
+    "value": 252100000
+  },
+  {
+    "name": "Paid Subscription",
+    "year": 2009,
+    "value": 235600000
+  },
+  {
+    "name": "Paid Subscription",
+    "year": 2010,
+    "value": 238800000
+  },
+  {
+    "name": "Paid Subscription",
+    "year": 2011,
+    "value": 270000000
+  },
+  {
+    "name": "Paid Subscription",
+    "year": 2012,
+    "value": 437400000
+  },
+  {
+    "name": "Paid Subscription",
+    "year": 2013,
+    "value": 693400000
+  },
+  {
+    "name": "Paid Subscription",
+    "year": 2014,
+    "value": 817000000
+  },
+  {
+    "name": "Paid Subscription",
+    "year": 2015,
+    "value": 1225500000
+  },
+  {
+    "name": "Paid Subscription",
+    "year": 2016,
+    "value": 2347900000
+  },
+  {
+    "name": "Paid Subscription",
+    "year": 2017,
+    "value": 3586100000
+  },
+  {
+    "name": "Paid Subscription",
+    "year": 2018,
+    "value": 4656000000
+  },
+  {
+    "name": "Ringtones & Ringbacks",
+    "year": 1973,
+    "value": 0
+  },
+  {
+    "name": "Ringtones & Ringbacks",
+    "year": 1974,
+    "value": 0
+  },
+  {
+    "name": "Ringtones & Ringbacks",
+    "year": 1975,
+    "value": 0
+  },
+  {
+    "name": "Ringtones & Ringbacks",
+    "year": 1976,
+    "value": 0
+  },
+  {
+    "name": "Ringtones & Ringbacks",
+    "year": 1977,
+    "value": 0
+  },
+  {
+    "name": "Ringtones & Ringbacks",
+    "year": 1978,
+    "value": 0
+  },
+  {
+    "name": "Ringtones & Ringbacks",
+    "year": 1979,
+    "value": 0
+  },
+  {
+    "name": "Ringtones & Ringbacks",
+    "year": 1980,
+    "value": 0
+  },
+  {
+    "name": "Ringtones & Ringbacks",
+    "year": 1981,
+    "value": 0
+  },
+  {
+    "name": "Ringtones & Ringbacks",
+    "year": 1982,
+    "value": 0
+  },
+  {
+    "name": "Ringtones & Ringbacks",
+    "year": 1983,
+    "value": 0
+  },
+  {
+    "name": "Ringtones & Ringbacks",
+    "year": 1984,
+    "value": 0
+  },
+  {
+    "name": "Ringtones & Ringbacks",
+    "year": 1985,
+    "value": 0
+  },
+  {
+    "name": "Ringtones & Ringbacks",
+    "year": 1986,
+    "value": 0
+  },
+  {
+    "name": "Ringtones & Ringbacks",
+    "year": 1987,
+    "value": 0
+  },
+  {
+    "name": "Ringtones & Ringbacks",
+    "year": 1988,
+    "value": 0
+  },
+  {
+    "name": "Ringtones & Ringbacks",
+    "year": 1989,
+    "value": 0
+  },
+  {
+    "name": "Ringtones & Ringbacks",
+    "year": 1990,
+    "value": 0
+  },
+  {
+    "name": "Ringtones & Ringbacks",
+    "year": 1991,
+    "value": 0
+  },
+  {
+    "name": "Ringtones & Ringbacks",
+    "year": 1992,
+    "value": 0
+  },
+  {
+    "name": "Ringtones & Ringbacks",
+    "year": 1993,
+    "value": 0
+  },
+  {
+    "name": "Ringtones & Ringbacks",
+    "year": 1994,
+    "value": 0
+  },
+  {
+    "name": "Ringtones & Ringbacks",
+    "year": 1995,
+    "value": 0
+  },
+  {
+    "name": "Ringtones & Ringbacks",
+    "year": 1996,
+    "value": 0
+  },
+  {
+    "name": "Ringtones & Ringbacks",
+    "year": 1997,
+    "value": 0
+  },
+  {
+    "name": "Ringtones & Ringbacks",
+    "year": 1998,
+    "value": 0
+  },
+  {
+    "name": "Ringtones & Ringbacks",
+    "year": 1999,
+    "value": 0
+  },
+  {
+    "name": "Ringtones & Ringbacks",
+    "year": 2000,
+    "value": 0
+  },
+  {
+    "name": "Ringtones & Ringbacks",
+    "year": 2001,
+    "value": 0
+  },
+  {
+    "name": "Ringtones & Ringbacks",
+    "year": 2002,
+    "value": 0
+  },
+  {
+    "name": "Ringtones & Ringbacks",
+    "year": 2003,
+    "value": 0
+  },
+  {
+    "name": "Ringtones & Ringbacks",
+    "year": 2004,
+    "value": 0
+  },
+  {
+    "name": "Ringtones & Ringbacks",
+    "year": 2005,
+    "value": 529100000
+  },
+  {
+    "name": "Ringtones & Ringbacks",
+    "year": 2006,
+    "value": 940800000
+  },
+  {
+    "name": "Ringtones & Ringbacks",
+    "year": 2007,
+    "value": 1248400000
+  },
+  {
+    "name": "Ringtones & Ringbacks",
+    "year": 2008,
+    "value": 1112400000
+  },
+  {
+    "name": "Ringtones & Ringbacks",
+    "year": 2009,
+    "value": 803000000
+  },
+  {
+    "name": "Ringtones & Ringbacks",
+    "year": 2010,
+    "value": 503600000
+  },
+  {
+    "name": "Ringtones & Ringbacks",
+    "year": 2011,
+    "value": 301000000
+  },
+  {
+    "name": "Ringtones & Ringbacks",
+    "year": 2012,
+    "value": 159700000
+  },
+  {
+    "name": "Ringtones & Ringbacks",
+    "year": 2013,
+    "value": 105600000
+  },
+  {
+    "name": "Ringtones & Ringbacks",
+    "year": 2014,
+    "value": 70300000
+  },
+  {
+    "name": "Ringtones & Ringbacks",
+    "year": 2015,
+    "value": 57800000
+  },
+  {
+    "name": "Ringtones & Ringbacks",
+    "year": 2016,
+    "value": 58900000
+  },
+  {
+    "name": "Ringtones & Ringbacks",
+    "year": 2017,
+    "value": 36400000
+  },
+  {
+    "name": "Ringtones & Ringbacks",
+    "year": 2018,
+    "value": 25000000
+  },
+  {
+    "name": "SACD",
+    "year": 1973,
+    "value": 0
+  },
+  {
+    "name": "SACD",
+    "year": 1974,
+    "value": 0
+  },
+  {
+    "name": "SACD",
+    "year": 1975,
+    "value": 0
+  },
+  {
+    "name": "SACD",
+    "year": 1976,
+    "value": 0
+  },
+  {
+    "name": "SACD",
+    "year": 1977,
+    "value": 0
+  },
+  {
+    "name": "SACD",
+    "year": 1978,
+    "value": 0
+  },
+  {
+    "name": "SACD",
+    "year": 1979,
+    "value": 0
+  },
+  {
+    "name": "SACD",
+    "year": 1980,
+    "value": 0
+  },
+  {
+    "name": "SACD",
+    "year": 1981,
+    "value": 0
+  },
+  {
+    "name": "SACD",
+    "year": 1982,
+    "value": 0
+  },
+  {
+    "name": "SACD",
+    "year": 1983,
+    "value": 0
+  },
+  {
+    "name": "SACD",
+    "year": 1984,
+    "value": 0
+  },
+  {
+    "name": "SACD",
+    "year": 1985,
+    "value": 0
+  },
+  {
+    "name": "SACD",
+    "year": 1986,
+    "value": 0
+  },
+  {
+    "name": "SACD",
+    "year": 1987,
+    "value": 0
+  },
+  {
+    "name": "SACD",
+    "year": 1988,
+    "value": 0
+  },
+  {
+    "name": "SACD",
+    "year": 1989,
+    "value": 0
+  },
+  {
+    "name": "SACD",
+    "year": 1990,
+    "value": 0
+  },
+  {
+    "name": "SACD",
+    "year": 1991,
+    "value": 0
+  },
+  {
+    "name": "SACD",
+    "year": 1992,
+    "value": 0
+  },
+  {
+    "name": "SACD",
+    "year": 1993,
+    "value": 0
+  },
+  {
+    "name": "SACD",
+    "year": 1994,
+    "value": 0
+  },
+  {
+    "name": "SACD",
+    "year": 1995,
+    "value": 0
+  },
+  {
+    "name": "SACD",
+    "year": 1996,
+    "value": 0
+  },
+  {
+    "name": "SACD",
+    "year": 1997,
+    "value": 0
+  },
+  {
+    "name": "SACD",
+    "year": 1998,
+    "value": 0
+  },
+  {
+    "name": "SACD",
+    "year": 1999,
+    "value": 0
+  },
+  {
+    "name": "SACD",
+    "year": 2000,
+    "value": 0
+  },
+  {
+    "name": "SACD",
+    "year": 2001,
+    "value": 0
+  },
+  {
+    "name": "SACD",
+    "year": 2002,
+    "value": 0
+  },
+  {
+    "name": "SACD",
+    "year": 2003,
+    "value": 35000000
+  },
+  {
+    "name": "SACD",
+    "year": 2004,
+    "value": 21500000
+  },
+  {
+    "name": "SACD",
+    "year": 2005,
+    "value": 12600000
+  },
+  {
+    "name": "SACD",
+    "year": 2006,
+    "value": 6700000
+  },
+  {
+    "name": "SACD",
+    "year": 2007,
+    "value": 4300000
+  },
+  {
+    "name": "SACD",
+    "year": 2008,
+    "value": 3500000
+  },
+  {
+    "name": "SACD",
+    "year": 2009,
+    "value": 2700000
+  },
+  {
+    "name": "SACD",
+    "year": 2010,
+    "value": 1900000
+  },
+  {
+    "name": "SACD",
+    "year": 2011,
+    "value": 1600000
+  },
+  {
+    "name": "SACD",
+    "year": 2012,
+    "value": 1500000
+  },
+  {
+    "name": "SACD",
+    "year": 2013,
+    "value": 1100000
+  },
+  {
+    "name": "SACD",
+    "year": 2014,
+    "value": 800000
+  },
+  {
+    "name": "SACD",
+    "year": 2015,
+    "value": 1100000
+  },
+  {
+    "name": "SACD",
+    "year": 2016,
+    "value": 1300000
+  },
+  {
+    "name": "SACD",
+    "year": 2017,
+    "value": 900000
+  },
+  {
+    "name": "SACD",
+    "year": 2018,
+    "value": 900000
+  },
+  {
+    "name": "SoundExchange Distributions",
+    "year": 1973,
+    "value": 0
+  },
+  {
+    "name": "SoundExchange Distributions",
+    "year": 1974,
+    "value": 0
+  },
+  {
+    "name": "SoundExchange Distributions",
+    "year": 1975,
+    "value": 0
+  },
+  {
+    "name": "SoundExchange Distributions",
+    "year": 1976,
+    "value": 0
+  },
+  {
+    "name": "SoundExchange Distributions",
+    "year": 1977,
+    "value": 0
+  },
+  {
+    "name": "SoundExchange Distributions",
+    "year": 1978,
+    "value": 0
+  },
+  {
+    "name": "SoundExchange Distributions",
+    "year": 1979,
+    "value": 0
+  },
+  {
+    "name": "SoundExchange Distributions",
+    "year": 1980,
+    "value": 0
+  },
+  {
+    "name": "SoundExchange Distributions",
+    "year": 1981,
+    "value": 0
+  },
+  {
+    "name": "SoundExchange Distributions",
+    "year": 1982,
+    "value": 0
+  },
+  {
+    "name": "SoundExchange Distributions",
+    "year": 1983,
+    "value": 0
+  },
+  {
+    "name": "SoundExchange Distributions",
+    "year": 1984,
+    "value": 0
+  },
+  {
+    "name": "SoundExchange Distributions",
+    "year": 1985,
+    "value": 0
+  },
+  {
+    "name": "SoundExchange Distributions",
+    "year": 1986,
+    "value": 0
+  },
+  {
+    "name": "SoundExchange Distributions",
+    "year": 1987,
+    "value": 0
+  },
+  {
+    "name": "SoundExchange Distributions",
+    "year": 1988,
+    "value": 0
+  },
+  {
+    "name": "SoundExchange Distributions",
+    "year": 1989,
+    "value": 0
+  },
+  {
+    "name": "SoundExchange Distributions",
+    "year": 1990,
+    "value": 0
+  },
+  {
+    "name": "SoundExchange Distributions",
+    "year": 1991,
+    "value": 0
+  },
+  {
+    "name": "SoundExchange Distributions",
+    "year": 1992,
+    "value": 0
+  },
+  {
+    "name": "SoundExchange Distributions",
+    "year": 1993,
+    "value": 0
+  },
+  {
+    "name": "SoundExchange Distributions",
+    "year": 1994,
+    "value": 0
+  },
+  {
+    "name": "SoundExchange Distributions",
+    "year": 1995,
+    "value": 0
+  },
+  {
+    "name": "SoundExchange Distributions",
+    "year": 1996,
+    "value": 0
+  },
+  {
+    "name": "SoundExchange Distributions",
+    "year": 1997,
+    "value": 0
+  },
+  {
+    "name": "SoundExchange Distributions",
+    "year": 1998,
+    "value": 0
+  },
+  {
+    "name": "SoundExchange Distributions",
+    "year": 1999,
+    "value": 0
+  },
+  {
+    "name": "SoundExchange Distributions",
+    "year": 2000,
+    "value": 0
+  },
+  {
+    "name": "SoundExchange Distributions",
+    "year": 2001,
+    "value": 0
+  },
+  {
+    "name": "SoundExchange Distributions",
+    "year": 2002,
+    "value": 0
+  },
+  {
+    "name": "SoundExchange Distributions",
+    "year": 2003,
+    "value": 0
+  },
+  {
+    "name": "SoundExchange Distributions",
+    "year": 2004,
+    "value": 9000000
+  },
+  {
+    "name": "SoundExchange Distributions",
+    "year": 2005,
+    "value": 25600000
+  },
+  {
+    "name": "SoundExchange Distributions",
+    "year": 2006,
+    "value": 39900000
+  },
+  {
+    "name": "SoundExchange Distributions",
+    "year": 2007,
+    "value": 42800000
+  },
+  {
+    "name": "SoundExchange Distributions",
+    "year": 2008,
+    "value": 113800000
+  },
+  {
+    "name": "SoundExchange Distributions",
+    "year": 2009,
+    "value": 177700000
+  },
+  {
+    "name": "SoundExchange Distributions",
+    "year": 2010,
+    "value": 280100000
+  },
+  {
+    "name": "SoundExchange Distributions",
+    "year": 2011,
+    "value": 318200000
+  },
+  {
+    "name": "SoundExchange Distributions",
+    "year": 2012,
+    "value": 505300000
+  },
+  {
+    "name": "SoundExchange Distributions",
+    "year": 2013,
+    "value": 636400000
+  },
+  {
+    "name": "SoundExchange Distributions",
+    "year": 2014,
+    "value": 820300000
+  },
+  {
+    "name": "SoundExchange Distributions",
+    "year": 2015,
+    "value": 850300000
+  },
+  {
+    "name": "SoundExchange Distributions",
+    "year": 2016,
+    "value": 924800000
+  },
+  {
+    "name": "SoundExchange Distributions",
+    "year": 2017,
+    "value": 667900000
+  },
+  {
+    "name": "SoundExchange Distributions",
+    "year": 2018,
+    "value": 952800000
+  },
+  {
+    "name": "Synchronization",
+    "year": 1973,
+    "value": 0
+  },
+  {
+    "name": "Synchronization",
+    "year": 1974,
+    "value": 0
+  },
+  {
+    "name": "Synchronization",
+    "year": 1975,
+    "value": 0
+  },
+  {
+    "name": "Synchronization",
+    "year": 1976,
+    "value": 0
+  },
+  {
+    "name": "Synchronization",
+    "year": 1977,
+    "value": 0
+  },
+  {
+    "name": "Synchronization",
+    "year": 1978,
+    "value": 0
+  },
+  {
+    "name": "Synchronization",
+    "year": 1979,
+    "value": 0
+  },
+  {
+    "name": "Synchronization",
+    "year": 1980,
+    "value": 0
+  },
+  {
+    "name": "Synchronization",
+    "year": 1981,
+    "value": 0
+  },
+  {
+    "name": "Synchronization",
+    "year": 1982,
+    "value": 0
+  },
+  {
+    "name": "Synchronization",
+    "year": 1983,
+    "value": 0
+  },
+  {
+    "name": "Synchronization",
+    "year": 1984,
+    "value": 0
+  },
+  {
+    "name": "Synchronization",
+    "year": 1985,
+    "value": 0
+  },
+  {
+    "name": "Synchronization",
+    "year": 1986,
+    "value": 0
+  },
+  {
+    "name": "Synchronization",
+    "year": 1987,
+    "value": 0
+  },
+  {
+    "name": "Synchronization",
+    "year": 1988,
+    "value": 0
+  },
+  {
+    "name": "Synchronization",
+    "year": 1989,
+    "value": 0
+  },
+  {
+    "name": "Synchronization",
+    "year": 1990,
+    "value": 0
+  },
+  {
+    "name": "Synchronization",
+    "year": 1991,
+    "value": 0
+  },
+  {
+    "name": "Synchronization",
+    "year": 1992,
+    "value": 0
+  },
+  {
+    "name": "Synchronization",
+    "year": 1993,
+    "value": 0
+  },
+  {
+    "name": "Synchronization",
+    "year": 1994,
+    "value": 0
+  },
+  {
+    "name": "Synchronization",
+    "year": 1995,
+    "value": 0
+  },
+  {
+    "name": "Synchronization",
+    "year": 1996,
+    "value": 0
+  },
+  {
+    "name": "Synchronization",
+    "year": 1997,
+    "value": 0
+  },
+  {
+    "name": "Synchronization",
+    "year": 1998,
+    "value": 0
+  },
+  {
+    "name": "Synchronization",
+    "year": 1999,
+    "value": 0
+  },
+  {
+    "name": "Synchronization",
+    "year": 2000,
+    "value": 0
+  },
+  {
+    "name": "Synchronization",
+    "year": 2001,
+    "value": 0
+  },
+  {
+    "name": "Synchronization",
+    "year": 2002,
+    "value": 0
+  },
+  {
+    "name": "Synchronization",
+    "year": 2003,
+    "value": 0
+  },
+  {
+    "name": "Synchronization",
+    "year": 2004,
+    "value": 0
+  },
+  {
+    "name": "Synchronization",
+    "year": 2005,
+    "value": 0
+  },
+  {
+    "name": "Synchronization",
+    "year": 2006,
+    "value": 0
+  },
+  {
+    "name": "Synchronization",
+    "year": 2007,
+    "value": 0
+  },
+  {
+    "name": "Synchronization",
+    "year": 2008,
+    "value": 0
+  },
+  {
+    "name": "Synchronization",
+    "year": 2009,
+    "value": 229900000
+  },
+  {
+    "name": "Synchronization",
+    "year": 2010,
+    "value": 212100000
+  },
+  {
+    "name": "Synchronization",
+    "year": 2011,
+    "value": 214100000
+  },
+  {
+    "name": "Synchronization",
+    "year": 2012,
+    "value": 208500000
+  },
+  {
+    "name": "Synchronization",
+    "year": 2013,
+    "value": 204500000
+  },
+  {
+    "name": "Synchronization",
+    "year": 2014,
+    "value": 201200000
+  },
+  {
+    "name": "Synchronization",
+    "year": 2015,
+    "value": 215000000
+  },
+  {
+    "name": "Synchronization",
+    "year": 2016,
+    "value": 224800000
+  },
+  {
+    "name": "Synchronization",
+    "year": 2017,
+    "value": 237800000
+  },
+  {
+    "name": "Synchronization",
+    "year": 2018,
+    "value": 285500000
+  },
+  {
+    "name": "Vinyl Single",
+    "year": 1973,
+    "value": 1048900000
+  },
+  {
+    "name": "Vinyl Single",
+    "year": 1974,
+    "value": 964600000
+  },
+  {
+    "name": "Vinyl Single",
+    "year": 1975,
+    "value": 963600000
+  },
+  {
+    "name": "Vinyl Single",
+    "year": 1976,
+    "value": 1055900000
+  },
+  {
+    "name": "Vinyl Single",
+    "year": 1977,
+    "value": 991400000
+  },
+  {
+    "name": "Vinyl Single",
+    "year": 1978,
+    "value": 978600000
+  },
+  {
+    "name": "Vinyl Single",
+    "year": 1979,
+    "value": 1193900000
+  },
+  {
+    "name": "Vinyl Single",
+    "year": 1980,
+    "value": 743700000
+  },
+  {
+    "name": "Vinyl Single",
+    "year": 1981,
+    "value": 691400000
+  },
+  {
+    "name": "Vinyl Single",
+    "year": 1982,
+    "value": 718800000
+  },
+  {
+    "name": "Vinyl Single",
+    "year": 1983,
+    "value": 662800000
+  },
+  {
+    "name": "Vinyl Single",
+    "year": 1984,
+    "value": 704700000
+  },
+  {
+    "name": "Vinyl Single",
+    "year": 1985,
+    "value": 640100000
+  },
+  {
+    "name": "Vinyl Single",
+    "year": 1986,
+    "value": 510100000
+  },
+  {
+    "name": "Vinyl Single",
+    "year": 1987,
+    "value": 438700000
+  },
+  {
+    "name": "Vinyl Single",
+    "year": 1988,
+    "value": 373800000
+  },
+  {
+    "name": "Vinyl Single",
+    "year": 1989,
+    "value": 230100000
+  },
+  {
+    "name": "Vinyl Single",
+    "year": 1990,
+    "value": 177000000
+  },
+  {
+    "name": "Vinyl Single",
+    "year": 1991,
+    "value": 115000000
+  },
+  {
+    "name": "Vinyl Single",
+    "year": 1992,
+    "value": 116000000
+  },
+  {
+    "name": "Vinyl Single",
+    "year": 1993,
+    "value": 86900000
+  },
+  {
+    "name": "Vinyl Single",
+    "year": 1994,
+    "value": 78100000
+  },
+  {
+    "name": "Vinyl Single",
+    "year": 1995,
+    "value": 75100000
+  },
+  {
+    "name": "Vinyl Single",
+    "year": 1996,
+    "value": 74200000
+  },
+  {
+    "name": "Vinyl Single",
+    "year": 1997,
+    "value": 54400000
+  },
+  {
+    "name": "Vinyl Single",
+    "year": 1998,
+    "value": 38600000
+  },
+  {
+    "name": "Vinyl Single",
+    "year": 1999,
+    "value": 41000000
+  },
+  {
+    "name": "Vinyl Single",
+    "year": 2000,
+    "value": 37400000
+  },
+  {
+    "name": "Vinyl Single",
+    "year": 2001,
+    "value": 43500000
+  },
+  {
+    "name": "Vinyl Single",
+    "year": 2002,
+    "value": 33900000
+  },
+  {
+    "name": "Vinyl Single",
+    "year": 2003,
+    "value": 28600000
+  },
+  {
+    "name": "Vinyl Single",
+    "year": 2004,
+    "value": 25800000
+  },
+  {
+    "name": "Vinyl Single",
+    "year": 2005,
+    "value": 16600000
+  },
+  {
+    "name": "Vinyl Single",
+    "year": 2006,
+    "value": 12000000
+  },
+  {
+    "name": "Vinyl Single",
+    "year": 2007,
+    "value": 4700000
+  },
+  {
+    "name": "Vinyl Single",
+    "year": 2008,
+    "value": 3300000
+  },
+  {
+    "name": "Vinyl Single",
+    "year": 2009,
+    "value": 2900000
+  },
+  {
+    "name": "Vinyl Single",
+    "year": 2010,
+    "value": 2600000
+  },
+  {
+    "name": "Vinyl Single",
+    "year": 2011,
+    "value": 5000000
+  },
+  {
+    "name": "Vinyl Single",
+    "year": 2012,
+    "value": 5200000
+  },
+  {
+    "name": "Vinyl Single",
+    "year": 2013,
+    "value": 3200000
+  },
+  {
+    "name": "Vinyl Single",
+    "year": 2014,
+    "value": 5800000
+  },
+  {
+    "name": "Vinyl Single",
+    "year": 2015,
+    "value": 6100000
+  },
+  {
+    "name": "Vinyl Single",
+    "year": 2016,
+    "value": 5100000
+  },
+  {
+    "name": "Vinyl Single",
+    "year": 2017,
+    "value": 6200000
+  },
+  {
+    "name": "Vinyl Single",
+    "year": 2018,
+    "value": 5300000
+  }
+]
